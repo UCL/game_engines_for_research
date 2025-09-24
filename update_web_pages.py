@@ -48,7 +48,14 @@ def update_game_engine_page(engine: pd.Series, publications: pd.DataFrame) -> in
         # prepare data for writing out
         papers_df = papers_df[papers_df["Relevant"]]
         papers_df = papers_df.drop(
-            ["PMID", "Relevant", "Comment", "Game Engines - Search", "Cited Relevant Papers"], axis=1
+            [
+                "PMID",
+                "Relevant",
+                "Comment",
+                "Game Engines - Search",
+                "Cited Relevant Papers",
+            ],
+            axis=1
         )
         papers = papers_df.to_json(None, indent=2, orient="records")
         with open("src/script_papers.js", "r") as filein:
