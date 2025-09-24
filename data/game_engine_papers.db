@@ -774,11 +774,20 @@
     "Title":"Feasibility of modified remotely monitored in-home gaming technology for improving hand function in adolescents with cerebral palsy.",
     "Citations":"",
     "Relevant":true,
-    "Comment":"Not reviewed yet",
+    "Comment": ["3 participants (adolescents 2 boys 1 girl - 13-15) 30 minutes per week",
+               "sensing glove and PlayStation 3",
+               "Build on work in virtual rehabilitation",
+               "Off the shelf games may not have the graduation and data collection capability required by a therapist.",
+               "Yellow Dog linux was installed on PPS3 - unable to use graphics processor.",
+	       "3 Games:",
+	       "Window cleaning game: Move fingers to uncover an image (designed to be familiar to participants) Multiple images, randomised to maintain interest - also included a window cleaning sound.",
+	       "Butterfly game: Move fingers to scare away a butterfly or mosquito. The game difficulty was modulated by increasing the insect speed.",
+	       "UFO game: basically the same as butterflies, but with UFO's and shrink rays."],
     "Game Engines - Search":[
       "Java 3D"
     ],
-    "Game Engine - Actual":"Unknown"
+    "Game Engine - Actual":"Java 3D",
+    "Cited Relevant Papers":["https://www.researchgate.net/publication/228820017_Virtual_reality_rehabilitation_for_all_Vivid_GX_versus_Sony_PlayStation_II_EyeToy", "https://doi.org/10.2522/ptj.20080062", "https://www.researchgate.net/publication/11785681_Virtual_reality-enhanced_stroke_rehabilitation", "https://pubmed.ncbi.nlm.nih.gov/12201804/"]
   },
   {
     "PMID":"35944270",

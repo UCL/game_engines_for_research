@@ -4,7 +4,7 @@ const papers = {
     "DOI":"10.1109\/TITB.2009.2038995",
     "Title":"Feasibility of modified remotely monitored in-home gaming technology for improving hand function in adolescents with cerebral palsy.",
     "Citations":"",
-    "Game Engine - Actual":"Unknown"
+    "Game Engine - Actual":"Java 3D"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:
