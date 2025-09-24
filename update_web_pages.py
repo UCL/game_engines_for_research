@@ -55,7 +55,7 @@ def update_game_engine_page(engine: pd.Series, publications: pd.DataFrame) -> in
                 "Game Engines - Search",
                 "Cited Relevant Papers",
             ],
-            axis=1
+            axis=1,
         )
         papers = papers_df.to_json(None, indent=2, orient="records")
         with open("src/script_papers.js", "r") as filein:
