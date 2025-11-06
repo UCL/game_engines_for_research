@@ -16,12 +16,12 @@
     "DOI":"10.1136\/bjsm.37.4.325",
     "Title":"Evaluation of cricket helmet performance and comparison with baseball and ice hockey helmets.",
     "Citations":11,
-    "Relevant":true,
-    "Comment":"Not reviewed yet",
+    "Relevant":false,
+    "Comment":"No game engine element, it's about sporting helmets (the game) dropped on an anvil",
     "Game Engines - Search":[
       "Anvil"
     ],
-    "Game Engine - Actual":"Unknown"
+    "Game Engine - Actual":"None"
   },
   {
     "PMID":"40682927",
