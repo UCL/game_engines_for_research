@@ -55,7 +55,7 @@ a project may be further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team opening a [new issue](https://github.com/thompson318/game_engine_software/issues/new). 
+reported by contacting the project team opening a [new issue](https://github.com/UCL/game_engines_for_research/issues/new). 
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
