@@ -119,5 +119,5 @@ if __name__ == "__main__":
                     "data/game_engine_papers.db", indent=2, orient="records"
                 )
 
-            print("Found new " + title)
-            print("https://doi.org/" + doi)
+                print("Found new " + title)
+                print("https://doi.org/" + doi)
