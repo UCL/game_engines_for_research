@@ -1,0 +1,23 @@
+# Update the game engine list and commit the results
+name: Update_Game_Engines
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  update-game-engines:
+    runs-on: ubuntu-slim
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "0.9.26"
+          python-version: "3.13"
+          enable-cache: true
+      - name: Make venv
+        run: uv venv
+      - name: Install dependencies
+        run: uv pip install .
+      - name: update_engines
+        run: python update_game_engine_list.py 
