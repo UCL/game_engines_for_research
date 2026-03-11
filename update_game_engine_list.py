@@ -62,12 +62,7 @@ if __name__ == "__main__":
     for i, engine in enumerate(game_engines):
         engine_name = engine.get(name_key)
         print(
-            "processing "
-            + engine_name
-            + " : "
-            + str(i)
-            + "/"
-            + str(len(game_engines))
+            "processing " + engine_name + " : " + str(i) + "/" + str(len(game_engines))
         )
         url, count, _ = get_citations_and_url(engine_name, False, max_citations)
 
