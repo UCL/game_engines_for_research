@@ -24,4 +24,5 @@ jobs:
           GES_USER_AGENT: ${{secrets.GES_USER_AGENT}}
           GES_EMAIL: ${{secrets.GES_EMAIL}}
           PUBMED_API_KEY: ${{secrets.PUBMED_API_KEY}}          
+          PUBMED_API_THROTTLE: 0.3
         run: uv run update_game_engine_list.py 

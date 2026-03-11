@@ -64,13 +64,16 @@ def get_citations_and_url(
 if __name__ == "__main__":
     game_engines = get_game_engines()
 
-    games: dict = {"data": []}
+    try:
+        games_df = pd.read_json("data/game_engine.db")
+    except ValueError:
+        games_df = pd.DataFrame()
 
-    games_df = pd.DataFrame()
     name_key = "Name(Alternate name)"
-
     max_citations = 100
-    api_throttle_time = 0.1  # keep the pubmed api rate below 10 per second
+    api_throttle_time = float(
+        os.environ.get("PUBMED_API_THROTTLE", 0.1)
+    )  # keep the pubmed api rate below 10 per second
     pubmed_key = os.environ.get("PUBMED_API_KEY", None)
     for i, engine in enumerate(game_engines):
         engine_name = engine.get(name_key)
@@ -103,17 +106,25 @@ if __name__ == "__main__":
                     + str(len(paperIDs))
                 )
 
-        games.get("data", []).append(
-            {
-                "Name": engine_name,
-                "PubMed citations": count,
-                "PubMed game citations": game_count,
-                "PubMed Link": url,
-                "PubMed Game Link": game_url,
-                "Paper IDs": paperIDs,
-            }
-        )
+        if len(games_df[games_df["Name"] == engine_name]) == 0:
+            # paper not in database
+            print(f"Adding {engine_name} to database")
+            new_game = pd.DataFrame(
+                {
+                    "Name": engine_name,
+                    "PubMed citations": count,
+                    "PubMed game citations": game_count,
+                    "Relevancy and read papers.": "-",
+                    "PubMed Link": url,
+                    "PubMed Game Link": game_url,
+                    "Paper IDs": [paperIDs],
+                }
+            )
+            print(new_game["Name"])
+            print
+            games_df = pd.concat([games_df, new_game])
+
+        games_df.to_json("data/game_engine.db", indent=2, orient="records")
 
     # create a pandas data frame and save it as json to make human readable and editable
-    games_df = pd.DataFrame(games.get("data", []))
     games_df.to_json("data/game_engine.db", indent=2, orient="records")
