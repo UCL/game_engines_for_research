@@ -44,6 +44,7 @@ def get_citations_and_url(
     if not skip_search:
         body = get_url(url)
         count = body.get("esearchresult").get("count")
+
         paperIDs = body.get("esearchresult").get("idlist")
 
     return human_url, count, paperIDs
@@ -55,26 +56,28 @@ if __name__ == "__main__":
     games: dict = {"data": []}
 
     games_df = pd.DataFrame()
+    name_key = "Name(Alternate name)"
 
     max_citations = 100
     for i, engine in enumerate(game_engines):
+        engine_name = engine.get(name_key)
         print(
             "processing "
-            + engine.get("Name")
+            + engine_name
             + " : "
             + str(i)
             + "/"
             + str(len(game_engines))
         )
-        url, count, _ = get_citations_and_url(engine.get("Name"), False, max_citations)
+        url, count, _ = get_citations_and_url(engine_name, False, max_citations)
 
         if int(count) == 0:
             game_url, game_count, paperIDs = get_citations_and_url(
-                engine.get("Name"), True, max_citations, "game"
+                engine_name, True, max_citations, "game"
             )
         else:
             game_url, game_count, paperIDs = get_citations_and_url(
-                engine.get("Name"), False, max_citations, "game"
+                engine_name, False, max_citations, "game"
             )
 
             if int(game_count) > len(paperIDs):
@@ -82,14 +85,14 @@ if __name__ == "__main__":
                     "Found more than "
                     + str(max_citations)
                     + " for "
-                    + engine.get("Name")
+                    + engine_name
                     + "Only collected first "
                     + str(len(paperIDs))
                 )
 
         games.get("data", []).append(
             {
-                "Name": engine.get("Name"),
+                "Name": engine_name,
                 "PubMed citations": count,
                 "PubMed game citations": game_count,
                 "PubMed Link": url,
