@@ -20,4 +20,8 @@ jobs:
       - name: Install dependencies
         run: uv pip install .
       - name: update_engines
-        run: python update_game_engine_list.py 
+        env:
+          GES_USER_AGENT: ${{secrets.GES_USER_AGENT}}
+          GES_EMAIL: ${{secrets.GES_EMAIL}}
+          PUBMED_API_KEY: ${{secrets.PUBMED_API_KEY}}          
+        run: uv run update_game_engine_list.py 
