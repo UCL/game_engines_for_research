@@ -71,24 +71,27 @@ if __name__ == "__main__":
 
     max_citations = 100
     api_throttle_time = 0.1  # keep the pubmed api rate below 10 per second
+    pubmed_key = os.environ.get("PUBMED_API_KEY", None)
     for i, engine in enumerate(game_engines):
         engine_name = engine.get(name_key)
         print(
             "processing " + engine_name + " : " + str(i) + "/" + str(len(game_engines))
         )
-        pubmed_key = os.environ.get("PUBMED_API_KEY", None)
         url, count, _ = get_citations_and_url(
             engine_name, False, max_citations, pm_key=pubmed_key
         )
+        time.sleep(api_throttle_time)
 
         if int(count) == 0:
             game_url, game_count, paperIDs = get_citations_and_url(
-                engine_name, True, max_citations, "game"
+                engine_name, True, max_citations, "game", pm_key=pubmed_key
             )
+            time.sleep(api_throttle_time)
         else:
             game_url, game_count, paperIDs = get_citations_and_url(
-                engine_name, False, max_citations, "game"
+                engine_name, False, max_citations, "game", pm_key=pubmed_key
             )
+            time.sleep(api_throttle_time)
 
             if int(game_count) > len(paperIDs):
                 print(
@@ -110,7 +113,6 @@ if __name__ == "__main__":
                 "Paper IDs": paperIDs,
             }
         )
-        time.sleep(api_throttle_time)
 
     # create a pandas data frame and save it as json to make human readable and editable
     games_df = pd.DataFrame(games.get("data", []))
