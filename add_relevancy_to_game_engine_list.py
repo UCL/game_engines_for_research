@@ -47,5 +47,5 @@ if __name__ == "__main__":
         else:
             relevancy_string.append("-")
 
-    game_engines_df.insert(3, "Relevancy and read papers.", relevancy_string)
+    game_engines_df["Relevancy and read papers."] = relevancy_string
     game_engines_df.to_json("data/game_engine.db", indent=2, orient="records")

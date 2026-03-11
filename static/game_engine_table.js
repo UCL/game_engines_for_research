@@ -52,7 +52,7 @@ const game_engines = {
     "Name":"Anvil",
     "PubMed citations":2329,
     "PubMed game citations":"2",
-    "Relevancy and read papers.":"0.0% of 1",
+    "Relevancy and read papers.":"0.0% of 2",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\"+and+\"game\""
   },
@@ -692,7 +692,7 @@ const game_engines = {
     "Name":"Java 3D",
     "PubMed citations":11,
     "PubMed game citations":"1",
-    "Relevancy and read papers.":"nan% of 0",
+    "Relevancy and read papers.":"0.0% of 1",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Java-3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Java-3D\"+and+\"game\""
   },
@@ -1407,6 +1407,86 @@ const game_engines = {
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Slipspace\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Slipspace\"+and+\"game\""
+  },
+  {
+    "Name":"Anvil\n(Scimitar)\n(AnvilNext)",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\n(Scimitar)\n(AnvilNext)\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\n(Scimitar)\n(AnvilNext)\"+and+\"game\""
+  },
+  {
+    "Name":"Cobra Engine",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cobra-Engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cobra-Engine\"+and+\"game\""
+  },
+  {
+    "Name":"Divinity Engine",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Divinity-Engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Divinity-Engine\"+and+\"game\""
+  },
+  {
+    "Name":"Flame",
+    "PubMed citations":30019,
+    "PubMed game citations":"30019",
+    "Relevancy and read papers.":"nan% of 0",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flame\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flame\"+and+\"game\""
+  },
+  {
+    "Name":"GameMaker",
+    "PubMed citations":1,
+    "PubMed game citations":"1",
+    "Relevancy and read papers.":"nan% of 0",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameMaker\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameMaker\"+and+\"game\""
+  },
+  {
+    "Name":"GoldSrcHalf-Life engine",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GoldSrcHalf-Life-engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GoldSrcHalf-Life-engine\"+and+\"game\""
+  },
+  {
+    "Name":"id Tech 8",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-8\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-8\"+and+\"game\""
+  },
+  {
+    "Name":"Messiah",
+    "PubMed citations":519,
+    "PubMed game citations":"519",
+    "Relevancy and read papers.":"nan% of 0",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Messiah\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Messiah\"+and+\"game\""
+  },
+  {
+    "Name":"Treyarch NGL",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Treyarch-NGL\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Treyarch-NGL\"+and+\"game\""
+  },
+  {
+    "Name":"Zero[19]",
+    "PubMed citations":0,
+    "PubMed game citations":"-",
+    "Relevancy and read papers.":"-",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zero[19]\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zero[19]\"+and+\"game\""
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

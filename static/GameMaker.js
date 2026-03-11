@@ -1,6 +1,11 @@
 const papers = { 
  "data": [
-
+  {
+    "DOI":"10.1177\/14614448221146480",
+    "Title":"Desirable work: Creative autonomy and the everyday turn in game production.",
+    "Citations":33,
+    "Game Engine - Actual":"Unknown"
+  }
 ]}
 // The following is mostly copy and pasted (with thanks) from:
 // https://medium.com/@rihab.beji099/transform-json-data-into-dynamic-html-tables-with-ease-c3ad579f6e59
