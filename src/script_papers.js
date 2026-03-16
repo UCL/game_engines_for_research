@@ -6,33 +6,72 @@ function generateTable(data) {
   if (!data || data.length === 0) return "No data available.";
   // Create the table element
   const table = document.createElement('table');
-  
+
+  const keys = Object.keys(data[0]);
+  const visibleKeys = keys.filter(k => k !== 'DOI');
+
+  // Sort state
+  let sortKey = null;
+  let sortAsc = true;
+
   // Generate table headers
   const headerRow = document.createElement('tr');
-  const keys = Object.keys(data[0]); // Get keys from the first object
-  keys.forEach(key => {
-    if (key != 'DOI'){
-    	const th = document.createElement('th');
-    	th.textContent = key.charAt(0).toUpperCase() + key.slice(1); // Capitalize header
-    	headerRow.appendChild(th);
-    };
+  visibleKeys.forEach(key => {
+    const th = document.createElement('th');
+    th.textContent = key.charAt(0).toUpperCase() + key.slice(1); // Capitalize header
+    th.style.cursor = 'pointer';
+    th.title = 'Click to sort';
+    th.addEventListener('click', () => {
+      if (sortKey === key) {
+        sortAsc = !sortAsc;
+      } else {
+        sortKey = key;
+        sortAsc = true;
+      }
+      headerRow.querySelectorAll('th').forEach(h => {
+        h.textContent = h.textContent.replace(/ [▲▼]$/, '');
+      });
+      th.textContent += sortAsc ? ' ▲' : ' ▼';
+      renderRows();
+    });
+    headerRow.appendChild(th);
   });
   table.appendChild(headerRow);
-  // Generate table rows
-  data.forEach(item => {
+
+  function makeRow(item) {
     const row = document.createElement('tr');
-    keys.forEach(key => {
-      if (key != 'DOI'){
-      	const td = document.createElement('td');
-        td.textContent = item[key] || ""; // Fill empty fields with blank
-        if (key === 'Title'){
-          td.innerHTML = "<a href=https://doi.org/" + item['DOI'] + " target='_blank'>" + item[key] + "</a>";
-        };
-        row.appendChild(td);
+    visibleKeys.forEach(key => {
+      const td = document.createElement('td');
+      td.textContent = item[key] || ""; // Fill empty fields with blank
+      if (key === 'Title'){
+        td.innerHTML = "<a href=https://doi.org/" + item['DOI'] + " target='_blank'>" + item[key] + "</a>";
       };
-    table.appendChild(row);
+      row.appendChild(td);
     });
-  });
+    return row;
+  }
+
+  function renderRows() {
+    while (table.rows.length > 1) table.deleteRow(1);
+
+    const sorted = [...data].sort((a, b) => {
+      if (!sortKey) return 0;
+      let va = a[sortKey];
+      let vb = b[sortKey];
+      const aNum = (va !== '' && va !== null && va !== undefined) ? Number(va) : null;
+      const bNum = (vb !== '' && vb !== null && vb !== undefined) ? Number(vb) : null;
+      if (aNum !== null && !isNaN(aNum) && bNum !== null && !isNaN(bNum)) {
+        return sortAsc ? aNum - bNum : bNum - aNum;
+      }
+      va = String(va ?? '');
+      vb = String(vb ?? '');
+      return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+    });
+
+    sorted.forEach(item => table.appendChild(makeRow(item)));
+  }
+
+  renderRows();
   return table;
 }
 // Render the table
