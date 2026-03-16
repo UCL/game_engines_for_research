@@ -1,5 +1,6 @@
 // The following is mostly copy and pasted (with thanks) from:
 // https://medium.com/@rihab.beji099/transform-json-data-into-dynamic-html-tables-with-ease-c3ad579f6e59
+// The functions to sort the table by clicking the header was added by Claude Sonnet 4.6
 
 // Function to generate the table
 function generateTable(data) {
