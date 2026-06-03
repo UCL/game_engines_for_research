@@ -7,3 +7,7 @@ curl --request GET \
   --url 'https://api.openalex.org/works/W2057644126?api_key=xxxx&select=title%2Cabstract_inverted_index'
 
 pass through to_abstract.py to get back to text abstract
+
+add "searh.exact" to get exact word match. i.e. phaser not phase
+
+eg. https://api.openalex.org/works?search.exact=phaser
