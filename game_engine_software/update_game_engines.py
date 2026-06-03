@@ -38,8 +38,6 @@ def update_game_engine_list(filename : str, name_key = "Name(Alternate name)"):
         games_df = pd.DataFrame()
     
 
-
-
     for i, engine in enumerate(game_engines):
       engine_name = engine.get(name_key)
       if ( games_df.empty or 
@@ -54,14 +52,11 @@ def update_game_engine_list(filename : str, name_key = "Name(Alternate name)"):
                     "Relevancy and read papers.": "-",
                     "PubMed Link": "",
                     "PubMed Game Link": "",
-                    "Paper IDs": [],
+                    "Paper IDs": [[]],
                 }
             )
-            print(games_df)
             games_df = pd.concat([games_df, new_game])
-            print(games_df)
 
-    print(games_df)
     games_df.to_json(filename, indent=2, orient="records")
 
     return
