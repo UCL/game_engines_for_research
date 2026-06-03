@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 import time
 import os
 
@@ -12,20 +13,37 @@ def update_game_engine_list(filename : str, name_key = "Name(Alternate name)"):
     :param: The key to find the engine name in from wikipedia query
     """
 
+    wiki_cache_file = "data/wikipedia_cache.json"
+    try:
+        cache_time = os.stat(wiki_cache_file).st_mtime
+        cache_age = time.time() - cache_time
+    except FileNotFoundError:
+        cache_age = float('inf')
+
+    if cache_age < 3600 * 24:
+        print (wiki_cache_file + " less than 24 hours old, re-using")
+        with open (wiki_cache_file) as f:
+            game_engines = json.load(f)[0]
+    else:
+        body = get_url(
+            "https://www.wikitable2json.com/api/List_of_game_engines?table=0&keyRows=1"
+        )
+        game_engines = body[0]
+        with open ("data/wikipedia_cache.json", "w") as f:
+            json.dump (body, f)
+
     try:
         games_df = pd.read_json(filename)
     except ValueError:
         games_df = pd.DataFrame()
+    
 
-    body = get_url(
-        "https://www.wikitable2json.com/api/List_of_game_engines?table=0&keyRows=1"
-    )
 
-    game_engines = body[0]
+
     for i, engine in enumerate(game_engines):
       engine_name = engine.get(name_key)
       if ( games_df.empty or 
-             games_df[games_df["Name"] == engine_name]) == 0:
+             len(games_df[games_df["Name"] == engine_name]) == 0):
             # paper not in database
             print(f"Adding {engine_name} to database")
             new_game = pd.DataFrame(
@@ -39,9 +57,11 @@ def update_game_engine_list(filename : str, name_key = "Name(Alternate name)"):
                     "Paper IDs": [],
                 }
             )
+            print(games_df)
             games_df = pd.concat([games_df, new_game])
+            print(games_df)
 
-
+    print(games_df)
     games_df.to_json(filename, indent=2, orient="records")
 
     return
