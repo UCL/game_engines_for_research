@@ -7,7 +7,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"4A-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"4A-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -18,7 +22,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"A-Frame-(VR)\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"A-Frame-(VR)\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -29,7 +37,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Adventure-Game-Interpreter\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Adventure-Game-Interpreter\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -40,7 +52,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Adventure-Game-Studio\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Adventure-Game-Studio\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -51,7 +67,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Aleph-One\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Aleph-One\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -62,19 +82,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Amazon-Lumberyard\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Amazon-Lumberyard\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Anvil",
-    "PubMed citations":2329,
-    "PubMed game citations":"2",
+    "PubMed citations":2442,
+    "PubMed game citations":"2442",
     "Relevancy and read papers.":"0.0% of 2",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\"+and+\"game\"",
     "Paper IDs":[
-      "25159628",
-      "12893718"
+      [
+        [
+          "42267011",
+          "42256589",
+          "42246890",
+          "42227975",
+          "42218207",
+          "42203448",
+          "42201530",
+          "42197185",
+          "42178617",
+          "42146228",
+          "42120373",
+          "42112544",
+          "42101377",
+          "42091778",
+          "42091658",
+          "42090512",
+          "42017799",
+          "42017589",
+          "42012318",
+          "41967299"
+        ]
+      ]
     ]
   },
   {
@@ -85,7 +131,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"AppGameKit\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"AppGameKit\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -96,7 +146,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Ardor3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Ardor3D\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -107,7 +161,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Aurora-toolset\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Aurora-toolset\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -118,7 +176,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Babylon.js\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Babylon.js\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -129,7 +191,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Blend4Web\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Blend4Web\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -140,7 +206,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Blender-Game-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Blender-Game-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -151,7 +221,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Build-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Build-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -162,18 +236,27 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Buildbox\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Buildbox\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"C4 Engine",
     "PubMed citations":2,
-    "PubMed game citations":"0",
+    "PubMed game citations":"2",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"C4-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"C4-Engine\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "27059273",
+          "25643361"
+        ]
+      ]
     ]
   },
   {
@@ -184,7 +267,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Chrome-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Chrome-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -195,18 +282,37 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ClanLib\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ClanLib\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Clausewitz",
     "PubMed citations":12,
-    "PubMed game citations":"0",
+    "PubMed game citations":"12",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Clausewitz\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Clausewitz\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "38495449",
+          "38114563",
+          "36494763",
+          "23350224",
+          "19813314",
+          "15641212",
+          "10771587",
+          "9297902",
+          "7892909",
+          "2657640",
+          "10302345",
+          "4557656"
+        ]
+      ]
     ]
   },
   {
@@ -217,7 +323,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Clickteam-Fusion\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Clickteam-Fusion\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -228,18 +338,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cocos2d,-Cocos2d-x,-Cocos2d-html5\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cocos2d,-Cocos2d-x,-Cocos2d-html5\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Codea",
-    "PubMed citations":30,
-    "PubMed game citations":"0",
+    "PubMed citations":36,
+    "PubMed game citations":"36",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Codea\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Codea\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41745799",
+          "41671736",
+          "41122131",
+          "40839829",
+          "40660642",
+          "40431578",
+          "39453172",
+          "39063620",
+          "38015030",
+          "37892466",
+          "37849127",
+          "40729167",
+          "35911932",
+          "35160718",
+          "34909715",
+          "34550049",
+          "34064094",
+          "33775072",
+          "33668439",
+          "31686117"
+        ]
+      ]
     ]
   },
   {
@@ -250,48 +387,79 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"CraftStudio\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"CraftStudio\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Construct",
-    "PubMed citations":222436,
-    "PubMed game citations":"533",
+    "PubMed citations":241517,
+    "PubMed game citations":"241517",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Construct\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Construct\"+and+\"game\"",
     "Paper IDs":[
-      "40682927",
-      "40624251",
-      "40620765",
-      "40594249",
-      "40593151",
-      "40554295",
-      "40512827",
-      "40509829",
-      "40344199",
-      "40315129",
-      "40173437",
-      "40030717",
-      "40030329",
-      "40019291",
-      "40011838",
-      "40010014",
-      "39991207",
-      "39959471",
-      "39777053",
-      "39769093"
+      [
+        [
+          "42267510",
+          "42267440",
+          "42267428",
+          "42267290",
+          "42267182",
+          "42267076",
+          "42266960",
+          "42266901",
+          "42266898",
+          "42266798",
+          "42266772",
+          "42266744",
+          "42266274",
+          "42266130",
+          "42266080",
+          "42265985",
+          "42265963",
+          "42265859",
+          "42265774",
+          "42265678"
+        ]
+      ]
     ]
   },
   {
     "Name":"Coretech",
-    "PubMed citations":20,
-    "PubMed game citations":"0",
+    "PubMed citations":27,
+    "PubMed game citations":"27",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Coretech\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Coretech\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42053349",
+          "41653466",
+          "41639663",
+          "41280554",
+          "41261863",
+          "41228586",
+          "41047118",
+          "39624071",
+          "39377987",
+          "38939735",
+          "38722523",
+          "37941505",
+          "37485274",
+          "37020008",
+          "36918590",
+          "36616479",
+          "36493783",
+          "36365741",
+          "35955311",
+          "35808697"
+        ]
+      ]
     ]
   },
   {
@@ -302,7 +470,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Creation-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Creation-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -313,7 +485,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"CryEngine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"CryEngine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -324,18 +500,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Crystal-Tools\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Crystal-Tools\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Crystal Space",
-    "PubMed citations":73,
-    "PubMed game citations":"0",
+    "PubMed citations":78,
+    "PubMed game citations":"78",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Crystal-Space\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Crystal-Space\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41832992",
+          "41127939",
+          "41078175",
+          "41076344",
+          "41001691",
+          "40442045",
+          "39397588",
+          "39392999",
+          "39251360",
+          "39247960",
+          "39037404",
+          "38837278",
+          "37443157",
+          "37037962",
+          "36794056",
+          "36573105",
+          "35789298",
+          "34240596",
+          "33959353",
+          "33881850"
+        ]
+      ]
     ]
   },
   {
@@ -346,7 +549,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cube-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cube-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -357,7 +564,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cube-2-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cube-2-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -368,7 +579,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dagor-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dagor-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -379,18 +594,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dark-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dark-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Decima",
-    "PubMed citations":92,
-    "PubMed game citations":"0",
+    "PubMed citations":96,
+    "PubMed game citations":"96",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Decima\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Decima\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42218342",
+          "42185539",
+          "41765355",
+          "40919720",
+          "39179787",
+          "39057511",
+          "38399060",
+          "38324944",
+          "36989512",
+          "36818723",
+          "36732522",
+          "36295233",
+          "35987210",
+          "34858080",
+          "33945181",
+          "33852672",
+          "33311142",
+          "32669883",
+          "32502405",
+          "32044742"
+        ]
+      ]
     ]
   },
   {
@@ -401,29 +643,66 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Defold\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Defold\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Delta3D",
     "PubMed citations":7,
-    "PubMed game citations":"1",
+    "PubMed game citations":"7",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Delta3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Delta3D\"+and+\"game\"",
     "Paper IDs":[
-      "15943084"
+      [
+        [
+          "34841272",
+          "34049673",
+          "27885752",
+          "27652518",
+          "25517987",
+          "23667425",
+          "15943084"
+        ]
+      ]
     ]
   },
   {
     "Name":"Dim3",
-    "PubMed citations":43,
-    "PubMed game citations":"0",
+    "PubMed citations":49,
+    "PubMed game citations":"49",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dim3\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dim3\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41699685",
+          "41184246",
+          "41163099",
+          "41061513",
+          "41002243",
+          "40879812",
+          "40332813",
+          "40313760",
+          "40299108",
+          "40122337",
+          "40023516",
+          "40021277",
+          "39563392",
+          "39555865",
+          "39049866",
+          "38956732",
+          "38540704",
+          "38184658",
+          "38000194",
+          "37451114"
+        ]
+      ]
     ]
   },
   {
@@ -434,7 +713,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"DimensioneX-Multiplayer-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"DimensioneX-Multiplayer-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -445,7 +728,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"DX-Studio\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"DX-Studio\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -456,37 +743,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dunia-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Dunia-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"EGO",
-    "PubMed citations":20550,
-    "PubMed game citations":"68",
+    "PubMed citations":20889,
+    "PubMed game citations":"20889",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"EGO\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"EGO\"+and+\"game\"",
     "Paper IDs":[
-      "40251205",
-      "40030982",
-      "35874390",
-      "35250667",
-      "37790900",
-      "34299809",
-      "33865431",
-      "33796008",
-      "32570586",
-      "32530370",
-      "32463316",
-      "30158454",
-      "30142302",
-      "28222114",
-      "27247687",
-      "26779106",
-      "25999888",
-      "25698700",
-      "25552567",
-      "25498787"
+      [
+        [
+          "42266768",
+          "42266066",
+          "42261969",
+          "42253546",
+          "42247717",
+          "42246593",
+          "42245581",
+          "42241489",
+          "42230807",
+          "42230646",
+          "42228700",
+          "42224508",
+          "42223233",
+          "42219786",
+          "42218483",
+          "42215734",
+          "42211797",
+          "42209153",
+          "42205280",
+          "42203747"
+        ]
+      ]
     ]
   },
   {
@@ -497,37 +792,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Electron-toolset\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Electron-toolset\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Enforce",
-    "PubMed citations":6571,
-    "PubMed game citations":"90",
+    "PubMed citations":7178,
+    "PubMed game citations":"7178",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Enforce\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Enforce\"+and+\"game\"",
     "Paper IDs":[
-      "40644271",
-      "40438542",
-      "40253548",
-      "40048958",
-      "38318044",
-      "38216621",
-      "37939469",
-      "37593633",
-      "37079207",
-      "37055546",
-      "38603448",
-      "36442747",
-      "35866176",
-      "35810777",
-      "35556180",
-      "35338188",
-      "34996005",
-      "34969840",
-      "34964895",
-      "34741826"
+      [
+        [
+          "42262039",
+          "42259708",
+          "42255149",
+          "42252934",
+          "42249547",
+          "42248954",
+          "42246101",
+          "42244775",
+          "42243172",
+          "42239268",
+          "42238118",
+          "42235990",
+          "42234631",
+          "42231732",
+          "42231538",
+          "42229967",
+          "42229030",
+          "42228666",
+          "42225888",
+          "42225491"
+        ]
+      ]
     ]
   },
   {
@@ -538,7 +841,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Enigma-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Enigma-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -549,18 +856,30 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Essence-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Essence-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Exult",
     "PubMed citations":5,
-    "PubMed game citations":"0",
+    "PubMed game citations":"5",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Exult\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Exult\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "34484801",
+          "34433491",
+          "16203879",
+          "16123914",
+          "14585938"
+        ]
+      ]
     ]
   },
   {
@@ -571,7 +890,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flare3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flare3D\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -582,7 +905,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flixel\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flixel\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -593,7 +920,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ForgeLight\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ForgeLight\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -604,7 +935,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Fox-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Fox-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -615,7 +950,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Freescape\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Freescape\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -626,18 +965,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"FreeSpace-2-Source-Code-Project\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"FreeSpace-2-Source-Code-Project\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Frostbite",
-    "PubMed citations":2460,
-    "PubMed game citations":"1",
+    "PubMed citations":2528,
+    "PubMed game citations":"2528",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Frostbite\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Frostbite\"+and+\"game\"",
     "Paper IDs":[
-      "37465264"
+      [
+        [
+          "42262741",
+          "42237878",
+          "42222226",
+          "42178120",
+          "42150831",
+          "42149724",
+          "42149700",
+          "42113241",
+          "42110979",
+          "42066262",
+          "41996275",
+          "41995243",
+          "41994814",
+          "29262156",
+          "41953050",
+          "41939373",
+          "41863599",
+          "41822469",
+          "41802611",
+          "41725566"
+        ]
+      ]
     ]
   },
   {
@@ -648,7 +1014,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Future-Pinball\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Future-Pinball\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -659,7 +1029,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Gamebryo\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Gamebryo\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -670,7 +1044,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Game-Editor\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Game-Editor\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -681,7 +1059,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameMaker-Studio\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameMaker-Studio\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -692,7 +1074,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameSalad\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameSalad\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -703,7 +1089,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Gamestudio\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Gamestudio\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -714,7 +1104,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GDevelop\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GDevelop\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -725,18 +1119,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Genie-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Genie-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Godot",
-    "PubMed citations":195,
-    "PubMed game citations":"0",
+    "PubMed citations":206,
+    "PubMed game citations":"206",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Godot\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Godot\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42178933",
+          "42085930",
+          "41760188",
+          "41747751",
+          "41697003",
+          "41574541",
+          "41506048",
+          "41216361",
+          "41203250",
+          "41195937",
+          "41024139",
+          "40715153",
+          "40714477",
+          "40682504",
+          "40469835",
+          "40348560",
+          "40073966",
+          "40036363",
+          "39822303",
+          "39764706"
+        ]
+      ]
     ]
   },
   {
@@ -747,7 +1168,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Gold-Box\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Gold-Box\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -758,7 +1183,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GoldSrc\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GoldSrc\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -769,7 +1198,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"HeroEngine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"HeroEngine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -780,7 +1213,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Horde3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Horde3D\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -791,7 +1228,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"HPL-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"HPL-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -802,7 +1243,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-0Wolfenstein-3D-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-0Wolfenstein-3D-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -813,7 +1258,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-1Doom-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-1Doom-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -824,7 +1273,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-2Quake-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-2Quake-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -835,7 +1288,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-2.5Quake-II-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-2.5Quake-II-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -846,7 +1303,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-3Quake-III-Arena-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-3Quake-III-Arena-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -857,7 +1318,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-3.5\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-3.5\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -868,7 +1333,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-4Doom-3-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-4Doom-3-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -879,7 +1348,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-4.5\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-4.5\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -890,7 +1363,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-5\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-5\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -901,7 +1378,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-6\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-6\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -912,18 +1393,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-7Motor\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-7Motor\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"iMUSE",
-    "PubMed citations":3,
-    "PubMed game citations":"0",
+    "PubMed citations":22,
+    "PubMed game citations":"22",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"iMUSE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"iMUSE\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "40982530",
+          "40600021",
+          "39759380",
+          "40336513",
+          "38140559",
+          "37737587",
+          "36070252",
+          "34806897",
+          "34073568",
+          "32929025",
+          "32836189",
+          "32381148",
+          "32121441",
+          "31815006",
+          "31519420",
+          "31390479",
+          "32904712",
+          "34311938",
+          "30069063",
+          "29731753"
+        ]
+      ]
     ]
   },
   {
@@ -934,18 +1442,26 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Infinity-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Infinity-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Irrlicht",
     "PubMed citations":1,
-    "PubMed game citations":"0",
+    "PubMed game citations":"1",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Irrlicht\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Irrlicht\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "663584"
+        ]
+      ]
     ]
   },
   {
@@ -956,7 +1472,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ioquake3\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ioquake3\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -967,7 +1487,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Iron-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Iron-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -978,18 +1502,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"IW-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"IW-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Jade",
-    "PubMed citations":2707,
-    "PubMed game citations":"0",
+    "PubMed citations":2893,
+    "PubMed game citations":"2893",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Jade\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Jade\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42263905",
+          "42256644",
+          "42256544",
+          "42246138",
+          "42242375",
+          "42242268",
+          "42242265",
+          "42240165",
+          "42237024",
+          "42231208",
+          "42222639",
+          "42165315",
+          "42162528",
+          "42147323",
+          "42144474",
+          "42143535",
+          "42134738",
+          "42121290",
+          "42118608",
+          "42113968"
+        ]
+      ]
     ]
   },
   {
@@ -1000,29 +1551,70 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Jake2\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Jake2\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Java 3D",
     "PubMed citations":11,
-    "PubMed game citations":"1",
+    "PubMed game citations":"11",
     "Relevancy and read papers.":"0.0% of 1",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Java-3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Java-3D\"+and+\"game\"",
     "Paper IDs":[
-      "20071262"
+      [
+        [
+          "20492697",
+          "20071262",
+          "16640468",
+          "16511673",
+          "15794151",
+          "12880210",
+          "12761052",
+          "12614491",
+          "10538352",
+          "10434254",
+          "10321435"
+        ]
+      ]
     ]
   },
   {
     "Name":"Jedi",
-    "PubMed citations":200,
-    "PubMed game citations":"1",
+    "PubMed citations":223,
+    "PubMed game citations":"223",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Jedi\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Jedi\"+and+\"game\"",
     "Paper IDs":[
-      "35944270"
+      [
+        [
+          "42111121",
+          "41993537",
+          "41972763",
+          "41942991",
+          "41922703",
+          "41892334",
+          "41789739",
+          "41624308",
+          "41603279",
+          "41592048",
+          "41557262",
+          "41551025",
+          "41410418",
+          "41369084",
+          "41367062",
+          "41273308",
+          "41126898",
+          "41121176",
+          "41044179",
+          "41011266"
+        ]
+      ]
     ]
   },
   {
@@ -1033,18 +1625,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"jMonkeyEngine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"jMonkeyEngine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Kinetica",
-    "PubMed citations":83,
-    "PubMed game citations":"0",
+    "PubMed citations":84,
+    "PubMed game citations":"84",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Kinetica\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Kinetica\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41416663",
+          "40510785",
+          "40231779",
+          "39964198",
+          "38829777",
+          "38577238",
+          "37500299",
+          "35784683",
+          "35609024",
+          "35196538",
+          "34080214",
+          "33514803",
+          "32898192",
+          "32161446",
+          "31828667",
+          "31795094",
+          "31569827",
+          "30792921",
+          "29928149",
+          "29624254"
+        ]
+      ]
     ]
   },
   {
@@ -1055,7 +1674,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Kivy-(framework)\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Kivy-(framework)\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1066,7 +1689,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LayaAir\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LayaAir\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1077,7 +1704,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Leadwerks\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Leadwerks\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1088,7 +1719,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LibGDX\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LibGDX\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1099,7 +1734,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LithTech\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LithTech\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1110,52 +1749,79 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Luminous-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Luminous-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"LyN",
-    "PubMed citations":3834,
-    "PubMed game citations":"5",
+    "PubMed citations":3965,
+    "PubMed game citations":"3965",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LyN\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"LyN\"+and+\"game\"",
     "Paper IDs":[
-      "35421985",
-      "35323358",
-      "28526289",
-      "23413274",
-      "17204586"
+      [
+        [
+          "42252468",
+          "42239799",
+          "42217066",
+          "42212873",
+          "42196307",
+          "42190098",
+          "42173409",
+          "42159801",
+          "42154443",
+          "42136753",
+          "42124571",
+          "42093005",
+          "42079227",
+          "42061092",
+          "42058742",
+          "42046335",
+          "42033889",
+          "42031161",
+          "42016239",
+          "41986653"
+        ]
+      ]
     ]
   },
   {
     "Name":"L\u00d6VE",
-    "PubMed citations":24195,
-    "PubMed game citations":"108",
+    "PubMed citations":25257,
+    "PubMed game citations":"25257",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"L\u00d6VE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"L\u00d6VE\"+and+\"game\"",
     "Paper IDs":[
-      "40713891",
-      "40635016",
-      "40626658",
-      "40559684",
-      "40459935",
-      "39934589",
-      "39457831",
-      "39092077",
-      "38916098",
-      "38180973",
-      "38070886",
-      "38025950",
-      "37793224",
-      "37754053",
-      "37439275",
-      "37366745",
-      "37300239",
-      "37239304",
-      "37138539",
-      "37114917"
+      [
+        [
+          "42265703",
+          "42264399",
+          "42263061",
+          "42261089",
+          "42260566",
+          "42260565",
+          "42260200",
+          "42260080",
+          "42258591",
+          "42258391",
+          "42258190",
+          "42256713",
+          "42253572",
+          "42252207",
+          "42249325",
+          "42249214",
+          "42249109",
+          "42243528",
+          "42240559",
+          "42237039"
+        ]
+      ]
     ]
   },
   {
@@ -1166,18 +1832,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"M.U.G.E.N\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"M.U.G.E.N\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Marmalade",
-    "PubMed citations":103,
-    "PubMed game citations":"1",
+    "PubMed citations":113,
+    "PubMed game citations":"113",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Marmalade\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Marmalade\"+and+\"game\"",
     "Paper IDs":[
-      "27139405"
+      [
+        [
+          "42019435",
+          "41933838",
+          "41927565",
+          "41746980",
+          "41743593",
+          "41539396",
+          "41428279",
+          "41050612",
+          "40963187",
+          "40932131",
+          "39986310",
+          "39933573",
+          "39831712",
+          "39640581",
+          "39296285",
+          "39097648",
+          "38779961",
+          "38249471",
+          "38153650",
+          "37929101"
+        ]
+      ]
     ]
   },
   {
@@ -1188,18 +1881,44 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Moai-SDK\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Moai-SDK\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"MT Framework",
-    "PubMed citations":15,
-    "PubMed game citations":"0",
+    "PubMed citations":19,
+    "PubMed game citations":"19",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"MT-Framework\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"MT-Framework\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41954327",
+          "41719399",
+          "41525518",
+          "40831743",
+          "40643755",
+          "40428072",
+          "40216596",
+          "40158461",
+          "38710210",
+          "38325920",
+          "36279335",
+          "36155435",
+          "36057198",
+          "35129122",
+          "34563895",
+          "33252140",
+          "24512047",
+          "24172707",
+          "11910157"
+        ]
+      ]
     ]
   },
   {
@@ -1210,7 +1929,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Monkey-X\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Monkey-X\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1221,18 +1944,28 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"MonoGame-\/-XNA\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"MonoGame-\/-XNA\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Northlight",
     "PubMed citations":3,
-    "PubMed game citations":"0",
+    "PubMed game citations":"3",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Northlight\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Northlight\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "36093577",
+          "35871644",
+          "1460241"
+        ]
+      ]
     ]
   },
   {
@@ -1243,7 +1976,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"NScripter\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"NScripter\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1254,7 +1991,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"O3DE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"O3DE\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1265,18 +2006,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Odyssey-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Odyssey-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"OGRE",
-    "PubMed citations":98,
-    "PubMed game citations":"0",
+    "PubMed citations":104,
+    "PubMed game citations":"104",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OGRE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OGRE\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42192343",
+          "42088443",
+          "41910275",
+          "41708896",
+          "41308509",
+          "41026289",
+          "40635032",
+          "40269167",
+          "39893669",
+          "39319980",
+          "39049853",
+          "38662763",
+          "38084847",
+          "37781580",
+          "37745567",
+          "37650155",
+          "37646938",
+          "37496002",
+          "37459442",
+          "37357495"
+        ]
+      ]
     ]
   },
   {
@@ -1287,7 +2055,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OHRRPGCE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OHRRPGCE\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1298,7 +2070,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ONScripter\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ONScripter\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1309,7 +2085,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OpenClonk\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OpenClonk\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1320,63 +2100,149 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OpenMW\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OpenMW\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"OpenSimulator",
     "PubMed citations":5,
-    "PubMed game citations":"0",
+    "PubMed game citations":"5",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OpenSimulator\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"OpenSimulator\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "35282406",
+          "34495213",
+          "22659598",
+          "22195176",
+          "20479495"
+        ]
+      ]
     ]
   },
   {
     "Name":"ORX",
-    "PubMed citations":684,
-    "PubMed game citations":"0",
+    "PubMed citations":713,
+    "PubMed game citations":"713",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ORX\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"ORX\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42149634",
+          "42088524",
+          "42075811",
+          "42072121",
+          "41937269",
+          "41936432",
+          "41908158",
+          "41846936",
+          "41834039",
+          "41771238",
+          "41455586",
+          "41313264",
+          "41297545",
+          "41280646",
+          "41248749",
+          "41217018",
+          "41213998",
+          "41132351",
+          "41072723",
+          "40995143"
+        ]
+      ]
     ]
   },
   {
     "Name":"Panda3D",
     "PubMed citations":3,
-    "PubMed game citations":"2",
+    "PubMed game citations":"3",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Panda3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Panda3D\"+and+\"game\"",
     "Paper IDs":[
-      "23549683",
-      "19377177"
+      [
+        [
+          "39108640",
+          "23549683",
+          "19377177"
+        ]
+      ]
     ]
   },
   {
     "Name":"Panta Rhei",
     "PubMed citations":34,
-    "PubMed game citations":"0",
+    "PubMed game citations":"34",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Panta-Rhei\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Panta-Rhei\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "40610227",
+          "40150436",
+          "40025715",
+          "39393391",
+          "38203465",
+          "37791612",
+          "37003610",
+          "34619792",
+          "34288422",
+          "33557443",
+          "33196945",
+          "33174111",
+          "33141027",
+          "32421244",
+          "32112258",
+          "31462826",
+          "31166022",
+          "30244254",
+          "29512287",
+          "28669061"
+        ]
+      ]
     ]
   },
   {
     "Name":"Phaser",
-    "PubMed citations":107,
-    "PubMed game citations":"0",
+    "PubMed citations":123,
+    "PubMed game citations":"123",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Phaser\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Phaser\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42203964",
+          "42081261",
+          "41695462",
+          "41564321",
+          "41312123",
+          "41295967",
+          "41147705",
+          "40972496",
+          "40964369",
+          "40831648",
+          "40023599",
+          "39976565",
+          "39421628",
+          "39150227",
+          "39101551",
+          "38985364",
+          "38733328",
+          "38332888",
+          "38326487",
+          "38315851"
+        ]
+      ]
     ]
   },
   {
@@ -1387,7 +2253,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"PhyreEngine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"PhyreEngine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1398,18 +2268,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pico-8\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pico-8\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Pie in the Sky",
     "PubMed citations":32,
-    "PubMed game citations":"0",
+    "PubMed game citations":"32",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pie-in-the-Sky\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pie-in-the-Sky\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "39553901",
+          "32644408",
+          "36166759",
+          "35610071",
+          "34057251",
+          "33666736",
+          "33619442",
+          "32198592",
+          "28830747",
+          "26695094",
+          "26571064",
+          "25898867",
+          "24687882",
+          "23361407",
+          "19349432",
+          "29783386",
+          "18193659",
+          "17844838",
+          "16894920",
+          "11184406"
+        ]
+      ]
     ]
   },
   {
@@ -1420,7 +2317,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pixel-Game-Maker-MV\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pixel-Game-Maker-MV\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1431,7 +2332,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"PlayCanvas\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"PlayCanvas\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1442,70 +2347,110 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"PlayN\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"PlayN\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Pygame",
     "PubMed citations":2,
-    "PubMed game citations":"1",
+    "PubMed game citations":"2",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pygame\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pygame\"+and+\"game\"",
     "Paper IDs":[
-      "34960514"
+      [
+        [
+          "39552930",
+          "34960514"
+        ]
+      ]
     ]
   },
   {
     "Name":"Pyrogenesis",
     "PubMed citations":21,
-    "PubMed game citations":"0",
+    "PubMed game citations":"21",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pyrogenesis\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Pyrogenesis\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "39888212",
+          "37754366",
+          "37299697",
+          "36839847",
+          "36559591",
+          "35159790",
+          "33374206",
+          "27896563",
+          "27027324",
+          "23695513",
+          "23072782",
+          "18421691",
+          "12690937",
+          "11211997",
+          "2067963",
+          "6887041",
+          "7069625",
+          "7441559",
+          "765316",
+          "765315"
+        ]
+      ]
     ]
   },
   {
     "Name":"Q",
-    "PubMed citations":231974,
-    "PubMed game citations":"446",
+    "PubMed citations":232953,
+    "PubMed game citations":"232953",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Q\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Q\"+and+\"game\"",
     "Paper IDs":[
-      "40592166",
-      "40575736",
-      "40512852",
-      "40408327",
-      "40388689",
-      "40388477",
-      "40372990",
-      "40338945",
-      "40333488",
-      "40311528",
-      "40308813",
-      "40283084",
-      "40273071",
-      "40272428",
-      "40250019",
-      "40233403",
-      "40070897",
-      "40070127",
-      "40053708",
-      "40022295"
+      [
+        [
+          "42267411",
+          "42267307",
+          "42267259",
+          "42267166",
+          "42267013",
+          "42266965",
+          "42266964",
+          "42266780",
+          "42266765",
+          "42266691",
+          "42266602",
+          "42266582",
+          "42266576",
+          "42266538",
+          "42266370",
+          "42266351",
+          "42266270",
+          "42266065",
+          "42265929",
+          "42265842"
+        ]
+      ]
     ]
   },
   {
     "Name":"Qfusion",
     "PubMed citations":1,
-    "PubMed game citations":"0",
+    "PubMed game citations":"1",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Qfusion\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Qfusion\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "38376723"
+        ]
+      ]
     ]
   },
   {
@@ -1516,18 +2461,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"REDengine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"REDengine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Ren'Py",
-    "PubMed citations":22,
-    "PubMed game citations":"0",
+    "PubMed citations":25,
+    "PubMed game citations":"25",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Ren'Py\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Ren'Py\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41694346",
+          "41451134",
+          "41084485",
+          "40049315",
+          "39846189",
+          "39671338",
+          "39437685",
+          "38901203",
+          "35234269",
+          "30868508",
+          "29732110",
+          "29254871",
+          "26814845",
+          "25592304",
+          "25547390",
+          "25473931",
+          "25452082",
+          "25296890",
+          "24605743",
+          "22643974"
+        ]
+      ]
     ]
   },
   {
@@ -1538,20 +2510,44 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"RenderWare\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"RenderWare\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Roblox",
-    "PubMed citations":14,
-    "PubMed game citations":"3",
+    "PubMed citations":19,
+    "PubMed game citations":"19",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Roblox\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Roblox\"+and+\"game\"",
     "Paper IDs":[
-      "40475756",
-      "38761770",
-      "38446183"
+      [
+        [
+          "42175310",
+          "42019983",
+          "41390475",
+          "41021970",
+          "40743518",
+          "40579787",
+          "40475756",
+          "38761770",
+          "38609548",
+          "38446183",
+          "38261310",
+          "37638938",
+          "37567198",
+          "37483546",
+          "37269650",
+          "37158318",
+          "37116457",
+          "36281621",
+          "35675112"
+        ]
+      ]
     ]
   },
   {
@@ -1562,7 +2558,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Rockstar-Advanced-Game-Engine-(RAGE)\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Rockstar-Advanced-Game-Engine-(RAGE)\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1573,78 +2573,94 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"RPG-Maker\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"RPG-Maker\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"SAGE",
-    "PubMed citations":20172,
-    "PubMed game citations":"50",
+    "PubMed citations":22186,
+    "PubMed game citations":"22186",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"SAGE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"SAGE\"+and+\"game\"",
     "Paper IDs":[
-      "40677251",
-      "40053743",
-      "40007197",
-      "39718632",
-      "39702488",
-      "39474474",
-      "39441503",
-      "39429545",
-      "38933688",
-      "38903195",
-      "38333516",
-      "38277191",
-      "37486882",
-      "37196763",
-      "37096383",
-      "37038512",
-      "36865753",
-      "36643208",
-      "35972323",
-      "35666863"
+      [
+        [
+          "42265693",
+          "42263356",
+          "42261506",
+          "42261339",
+          "42261338",
+          "42260695",
+          "42260311",
+          "42260153",
+          "42259592",
+          "42259487",
+          "42257677",
+          "42256478",
+          "42256338",
+          "42255997",
+          "42255964",
+          "42255365",
+          "42255364",
+          "42253562",
+          "42252507",
+          "42249599"
+        ]
+      ]
     ]
   },
   {
     "Name":"SCUMM",
     "PubMed citations":1,
-    "PubMed game citations":"0",
+    "PubMed game citations":"1",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"SCUMM\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"SCUMM\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "36058639"
+        ]
+      ]
     ]
   },
   {
     "Name":"Scratch",
-    "PubMed citations":18295,
-    "PubMed game citations":"43",
+    "PubMed citations":19982,
+    "PubMed game citations":"19982",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Scratch\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Scratch\"+and+\"game\"",
     "Paper IDs":[
-      "39587220",
-      "39460200",
-      "39409396",
-      "39259628",
-      "39084887",
-      "38688980",
-      "38585481",
-      "38450588",
-      "38275977",
-      "37547229",
-      "37286649",
-      "37270469",
-      "36871586",
-      "36454847",
-      "36189682",
-      "36125924",
-      "35731749",
-      "35445898",
-      "35044578",
-      "34780244"
+      [
+        [
+          "42264110",
+          "42264009",
+          "42262951",
+          "42262531",
+          "42261686",
+          "42261651",
+          "42261359",
+          "42260901",
+          "42260542",
+          "42259801",
+          "42259004",
+          "42258462",
+          "42256599",
+          "42255492",
+          "42255218",
+          "42254420",
+          "42253107",
+          "42250567",
+          "42250533",
+          "42250339"
+        ]
+      ]
     ]
   },
   {
@@ -1655,7 +2671,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Serious-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Serious-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1666,7 +2686,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Shark-3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Shark-3D\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1677,18 +2701,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Silent-Storm-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Silent-Storm-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Snowdrop",
-    "PubMed citations":244,
-    "PubMed game citations":"0",
+    "PubMed citations":247,
+    "PubMed game citations":"247",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Snowdrop\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Snowdrop\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41871069",
+          "41696179",
+          "40986076",
+          "40646167",
+          "38999568",
+          "38245738",
+          "38218384",
+          "39516976",
+          "37705932",
+          "37592258",
+          "37397105",
+          "37106938",
+          "36652002",
+          "36635990",
+          "36161468",
+          "35901224",
+          "35885952",
+          "35592096",
+          "35447828",
+          "34908164"
+        ]
+      ]
     ]
   },
   {
@@ -1699,48 +2750,79 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Solar2D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Solar2D\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Source",
-    "PubMed citations":696301,
-    "PubMed game citations":"1284",
+    "PubMed citations":738145,
+    "PubMed game citations":"738145",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Source\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Source\"+and+\"game\"",
     "Paper IDs":[
-      "40702266",
-      "40692971",
-      "40668896",
-      "40657727",
-      "40638062",
-      "40635077",
-      "40632724",
-      "40630505",
-      "40616885",
-      "40607243",
-      "40606692",
-      "40594148",
-      "40577545",
-      "40577490",
-      "40574996",
-      "40532004",
-      "40498691",
-      "40460525",
-      "40450541",
-      "40457563"
+      [
+        [
+          "42267529",
+          "42267518",
+          "42267511",
+          "42267467",
+          "42267440",
+          "42267270",
+          "42267253",
+          "42267164",
+          "42267140",
+          "42267110",
+          "42267094",
+          "42266998",
+          "42266942",
+          "42266936",
+          "42266892",
+          "42266878",
+          "42266830",
+          "42266697",
+          "42266690",
+          "42266586"
+        ]
+      ]
     ]
   },
   {
     "Name":"Source 2",
-    "PubMed citations":342,
-    "PubMed game citations":"0",
+    "PubMed citations":362,
+    "PubMed game citations":"362",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Source-2\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Source-2\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "41939300",
+          "41903250",
+          "41812869",
+          "41802234",
+          "41801487",
+          "41770967",
+          "41692762",
+          "41678860",
+          "41650715",
+          "41575992",
+          "41408162",
+          "41387258",
+          "41269048",
+          "41232536",
+          "41231863",
+          "41023342",
+          "41003329",
+          "40904132",
+          "40863965",
+          "40780726"
+        ]
+      ]
     ]
   },
   {
@@ -1751,7 +2833,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Starling-Framework\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Starling-Framework\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1762,7 +2848,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Stencyl\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Stencyl\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1773,18 +2863,27 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Autodesk-Stingray-(Bitsquid)\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Autodesk-Stingray-(Bitsquid)\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"StepMania",
     "PubMed citations":2,
-    "PubMed game citations":"1",
+    "PubMed game citations":"2",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"StepMania\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"StepMania\"+and+\"game\"",
     "Paper IDs":[
-      "23985184"
+      [
+        [
+          "30044127",
+          "23985184"
+        ]
+      ]
     ]
   },
   {
@@ -1795,48 +2894,60 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Stratagus\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Stratagus\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Stride",
-    "PubMed citations":10241,
-    "PubMed game citations":"38",
+    "PubMed citations":11036,
+    "PubMed game citations":"11036",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Stride\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Stride\"+and+\"game\"",
     "Paper IDs":[
-      "40489391",
-      "39946363",
-      "39618490",
-      "39524323",
-      "39324501",
-      "39120203",
-      "39013927",
-      "38997475",
-      "38601574",
-      "38123606",
-      "37802081",
-      "37648695",
-      "36254725",
-      "35174323",
-      "34631254",
-      "34134606",
-      "32935627",
-      "31905407",
-      "31809646",
-      "31779179"
+      [
+        [
+          "42266079",
+          "42262334",
+          "42261976",
+          "42260088",
+          "42258430",
+          "42257255",
+          "42256576",
+          "42255520",
+          "42254338",
+          "42250873",
+          "42242624",
+          "42242024",
+          "42241786",
+          "42241358",
+          "42239385",
+          "42238696",
+          "42237755",
+          "42236904",
+          "42234981",
+          "42233039"
+        ]
+      ]
     ]
   },
   {
     "Name":"Three.js",
-    "PubMed citations":9,
-    "PubMed game citations":"0",
+    "PubMed citations":1,
+    "PubMed game citations":"1",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Three.js\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Three.js\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "37571668"
+        ]
+      ]
     ]
   },
   {
@@ -1847,18 +2958,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"TIC-80\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"TIC-80\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"TOSHI",
-    "PubMed citations":690,
-    "PubMed game citations":"0",
+    "PubMed citations":717,
+    "PubMed game citations":"717",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"TOSHI\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"TOSHI\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "42208934",
+          "42019104",
+          "41988009",
+          "41973082",
+          "41948680",
+          "41893409",
+          "41781144",
+          "41760919",
+          "41740200",
+          "41635174",
+          "41629608",
+          "41557249",
+          "41532149",
+          "41484880",
+          "41466624",
+          "41341657",
+          "41266845",
+          "41264113",
+          "41205042",
+          "41168072"
+        ]
+      ]
     ]
   },
   {
@@ -1869,29 +3007,63 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Torque3D\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Torque3D\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Turbulenz",
     "PubMed citations":4,
-    "PubMed game citations":"0",
+    "PubMed game citations":"4",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Turbulenz\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Turbulenz\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "11826811",
+          "24445796",
+          "1031792",
+          "4464542"
+        ]
+      ]
     ]
   },
   {
     "Name":"Twine",
-    "PubMed citations":630,
-    "PubMed game citations":"1",
+    "PubMed citations":655,
+    "PubMed game citations":"655",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Twine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Twine\"+and+\"game\"",
     "Paper IDs":[
-      "37286971"
+      [
+        [
+          "42147191",
+          "41969765",
+          "41941595",
+          "41831642",
+          "41771177",
+          "41761897",
+          "41692118",
+          "41582825",
+          "41526012",
+          "41494151",
+          "41459110",
+          "41448425",
+          "41406780",
+          "41360866",
+          "41270475",
+          "41140119",
+          "41085617",
+          "41085616",
+          "40995217",
+          "40986658"
+        ]
+      ]
     ]
   },
   {
@@ -1902,7 +3074,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"UbiArt-Framework\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"UbiArt-Framework\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1913,54 +3089,79 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Unigine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Unigine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Unity",
-    "PubMed citations":22751,
-    "PubMed game citations":"140",
+    "PubMed citations":24781,
+    "PubMed game citations":"24781",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Unity\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Unity\"+and+\"game\"",
     "Paper IDs":[
-      "40579384",
-      "40569695",
-      "40569313",
-      "40566173",
-      "40564398",
-      "40532200",
-      "40489616",
-      "40438542",
-      "40423025",
-      "40408327",
-      "40270417",
-      "40153445",
-      "40126159",
-      "40103644",
-      "40070674",
-      "40039744",
-      "39834839",
-      "39764571",
-      "39538726",
-      "39278144"
+      [
+        [
+          "42266690",
+          "42266570",
+          "42265926",
+          "42265758",
+          "42265495",
+          "42264346",
+          "42263622",
+          "42263425",
+          "42263150",
+          "42263079",
+          "42262943",
+          "42262712",
+          "42262372",
+          "42262167",
+          "42262149",
+          "42261947",
+          "42260407",
+          "42259781",
+          "42257916",
+          "42256617"
+        ]
+      ]
     ]
   },
   {
     "Name":"Unreal Engine",
-    "PubMed citations":42,
-    "PubMed game citations":"7",
+    "PubMed citations":61,
+    "PubMed game citations":"61",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Unreal-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Unreal-Engine\"+and+\"game\"",
     "Paper IDs":[
-      "40392648",
-      "40328184",
-      "39892353",
-      "39820059",
-      "38496473",
-      "37647108",
-      "32267886"
+      [
+        [
+          "42203862",
+          "42041159",
+          "41801632",
+          "41712754",
+          "41650002",
+          "41471564",
+          "41373314",
+          "41336269",
+          "41295112",
+          "41286195",
+          "41002821",
+          "40942996",
+          "40942747",
+          "40899907",
+          "40889307",
+          "40871980",
+          "40873860",
+          "40820136",
+          "40750621",
+          "40392648"
+        ]
+      ]
     ]
   },
   {
@@ -1971,7 +3172,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"V-Play-Game-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"V-Play-Game-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1982,7 +3187,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Vengeance-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Vengeance-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -1993,48 +3202,67 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Vicarious-Visions-Alchemy\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Vicarious-Visions-Alchemy\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Virtools",
     "PubMed citations":8,
-    "PubMed game citations":"1",
+    "PubMed game citations":"8",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Virtools\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Virtools\"+and+\"game\"",
     "Paper IDs":[
-      "26485979"
+      [
+        [
+          "35909871",
+          "31343239",
+          "26485979",
+          "25178459",
+          "20467069",
+          "16817655",
+          "15850116",
+          "15295150"
+        ]
+      ]
     ]
   },
   {
     "Name":"Vision",
-    "PubMed citations":279973,
-    "PubMed game citations":"609",
+    "PubMed citations":299134,
+    "PubMed game citations":"299134",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Vision\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Vision\"+and+\"game\"",
     "Paper IDs":[
-      "40719537",
-      "40700175",
-      "40690340",
-      "40685494",
-      "40595874",
-      "40558810",
-      "40548225",
-      "40542370",
-      "40531898",
-      "40474658",
-      "40440164",
-      "40438470",
-      "40424615",
-      "40423025",
-      "40374701",
-      "40354947",
-      "40346458",
-      "40316556",
-      "40214829",
-      "40188286"
+      [
+        [
+          "42267473",
+          "42267290",
+          "42267281",
+          "42267263",
+          "42267194",
+          "42266993",
+          "42266986",
+          "42266978",
+          "42266717",
+          "42266709",
+          "42266569",
+          "42266519",
+          "42266518",
+          "42266334",
+          "42266293",
+          "42266260",
+          "42266239",
+          "42266236",
+          "42266222",
+          "42266198"
+        ]
+      ]
     ]
   },
   {
@@ -2045,7 +3273,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Visual3D-Game-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Visual3D-Game-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2056,18 +3288,29 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Visual-Pinball\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Visual-Pinball\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"VRAGE",
-    "PubMed citations":3,
-    "PubMed game citations":"0",
+    "PubMed citations":4,
+    "PubMed game citations":"4",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"VRAGE\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"VRAGE\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "40783395",
+          "34779253",
+          "33781808",
+          "24012635"
+        ]
+      ]
     ]
   },
   {
@@ -2078,7 +3321,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Wintermute-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Wintermute-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2089,7 +3336,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"World-Builder\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"World-Builder\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2100,7 +3351,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"WorldForge\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"WorldForge\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2111,7 +3366,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"XnGine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"XnGine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2122,7 +3381,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zillions-of-Games\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zillions-of-Games\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2133,37 +3396,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zero[15]\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zero[15]\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"S&box",
-    "PubMed citations":15752617,
-    "PubMed game citations":"15752617",
+    "PubMed citations":14838943,
+    "PubMed game citations":"14838943",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"S&box\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"S&box\"+and+\"game\"",
     "Paper IDs":[
-      "40388552",
-      "40727834",
-      "40727828",
-      "40727818",
-      "40727813",
-      "40727804",
-      "40727803",
-      "40727801",
-      "40727799",
-      "40727795",
-      "40727794",
-      "40727792",
-      "40727791",
-      "40727790",
-      "40727779",
-      "40727777",
-      "40727773",
-      "40727772",
-      "40727765",
-      "40727764"
+      [
+        [
+          "42267532",
+          "42267530",
+          "42267529",
+          "42267528",
+          "42267525",
+          "42267494",
+          "42267481",
+          "42267479",
+          "42267478",
+          "42267464",
+          "42267463",
+          "42267462",
+          "42267456",
+          "42267454",
+          "42267448",
+          "42267447",
+          "42267446",
+          "42267435",
+          "42267428",
+          "42267422"
+        ]
+      ]
     ]
   },
   {
@@ -2174,7 +3445,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Slipspace\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Slipspace\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2185,7 +3460,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\n(Scimitar)\n(AnvilNext)\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Anvil\n(Scimitar)\n(AnvilNext)\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2196,7 +3475,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cobra-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Cobra-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2207,37 +3490,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Divinity-Engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Divinity-Engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Flame",
-    "PubMed citations":30019,
-    "PubMed game citations":"30019",
+    "PubMed citations":30475,
+    "PubMed game citations":"30475",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flame\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Flame\"+and+\"game\"",
     "Paper IDs":[
-      "41809124",
-      "41809085",
-      "41806764",
-      "41806668",
-      "41806579",
-      "41806230",
-      "41805327",
-      "41805119",
-      "41804832",
-      "41802660",
-      "41801018",
-      "41799125",
-      "41797903",
-      "41797382",
-      "41797237",
-      "41796833",
-      "41796706",
-      "41795724",
-      "41795393",
-      "41794234"
+      [
+        [
+          "42265268",
+          "42262872",
+          "42257801",
+          "42257583",
+          "42257581",
+          "42256856",
+          "42255618",
+          "42255574",
+          "42252905",
+          "42252799",
+          "42250839",
+          "42249172",
+          "42248392",
+          "42248077",
+          "42246103",
+          "42245461",
+          "42242529",
+          "42242322",
+          "42238385",
+          "42237606"
+        ]
+      ]
     ]
   },
   {
@@ -2248,7 +3539,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameMaker\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GameMaker\"+and+\"game\"",
     "Paper IDs":[
-      "39314639"
+      [
+        [
+          "39314639"
+        ]
+      ]
     ]
   },
   {
@@ -2259,7 +3554,11 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GoldSrcHalf-Life-engine\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"GoldSrcHalf-Life-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
@@ -2270,37 +3569,45 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-8\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-8\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Messiah",
-    "PubMed citations":519,
-    "PubMed game citations":"519",
+    "PubMed citations":531,
+    "PubMed game citations":"531",
     "Relevancy and read papers.":"nan% of 0",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Messiah\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Messiah\"+and+\"game\"",
     "Paper IDs":[
-      "41805958",
-      "41783650",
-      "41605300",
-      "41601204",
-      "41584716",
-      "41556609",
-      "41495950",
-      "41485838",
-      "41479931",
-      "41398383",
-      "41394748",
-      "41325988",
-      "41322824",
-      "41308904",
-      "41301299",
-      "41285880",
-      "41228370",
-      "41211241",
-      "41122079",
-      "41101723"
+      [
+        [
+          "42256460",
+          "42191151",
+          "42167405",
+          "42151385",
+          "42113525",
+          "42083112",
+          "42077266",
+          "42056917",
+          "42009992",
+          "41888483",
+          "41852253",
+          "41843416",
+          "41805958",
+          "41783650",
+          "41605300",
+          "41601204",
+          "41584716",
+          "41556609",
+          "41495950",
+          "41485838"
+        ]
+      ]
     ]
   },
   {
@@ -2311,84 +3618,116 @@
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Treyarch-NGL\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Treyarch-NGL\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Zero[19]",
-    "PubMed citations":0,
-    "PubMed game citations":"-",
+    "PubMed citations":1,
+    "PubMed game citations":"1",
     "Relevancy and read papers.":"-",
     "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zero[19]\"",
     "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Zero[19]\"+and+\"game\"",
     "Paper IDs":[
-
+      [
+        [
+          "22666865"
+        ]
+      ]
     ]
   },
   {
     "Name":"Wolfenstein 3D engine",
-    "PubMed citations":"-",
+    "PubMed citations":0,
     "PubMed game citations":"-",
     "Relevancy and read papers.":"-",
-    "PubMed Link":"",
-    "PubMed Game Link":"",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Wolfenstein-3D-engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Wolfenstein-3D-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Doom engine",
-    "PubMed citations":"-",
+    "PubMed citations":0,
     "PubMed game citations":"-",
     "Relevancy and read papers.":"-",
-    "PubMed Link":"",
-    "PubMed Game Link":"",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Doom-engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Doom-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Quake engine",
-    "PubMed citations":"-",
+    "PubMed citations":0,
     "PubMed game citations":"-",
     "Relevancy and read papers.":"-",
-    "PubMed Link":"",
-    "PubMed Game Link":"",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Quake-engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Quake-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"id Tech 2Quake II engine",
-    "PubMed citations":"-",
+    "PubMed citations":0,
     "PubMed game citations":"-",
     "Relevancy and read papers.":"-",
-    "PubMed Link":"",
-    "PubMed Game Link":"",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-2Quake-II-engine\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-2Quake-II-engine\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"id Tech 7",
-    "PubMed citations":"-",
+    "PubMed citations":0,
     "PubMed game citations":"-",
     "Relevancy and read papers.":"-",
-    "PubMed Link":"",
-    "PubMed Game Link":"",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-7\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"id-Tech-7\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   },
   {
     "Name":"Telltale Engine and\nToolset",
-    "PubMed citations":"-",
+    "PubMed citations":0,
     "PubMed game citations":"-",
     "Relevancy and read papers.":"-",
-    "PubMed Link":"",
-    "PubMed Game Link":"",
+    "PubMed Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Telltale-Engine-and\nToolset\"",
+    "PubMed Game Link":"https:\/\/pubmed.ncbi.nlm.nih.gov\/?term=\"Telltale-Engine-and\nToolset\"+and+\"game\"",
     "Paper IDs":[
+      [
+        [
 
+        ]
+      ]
     ]
   }
 ]
