@@ -119,6 +119,126 @@ const papers = {
     "Title":"Effects of Vitamin D and Calcium Fortified Yogurts on Gait, Cognitive Performances, and Serum 25-Hydroxyvitamin D Concentrations in Older Community-Dwelling Females: Results from the GAit, MEmory, Dietary and Vitamin D (GAME-D2) Randomized Controlled Trial.",
     "Citations":36,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/mus.70311",
+    "Title":"Frataxin Expression in Sensory Neurons Is Required for Muscle Spindle Function and Proprioception.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/10400435.2026.2659185",
+    "Title":"Effect of an ankle-foot orthosis on gait parameters in medial knee osteoarthritis: A single-subject study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1161\/JAHA.125.047764",
+    "Title":"Routine Handheld Carotid Ultrasonography for Cardiovascular Risk Stratification and Primary Prevention Treatment Decisions in a Contemporary Middle-Aged General Population.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-56629-9",
+    "Title":"Seated gait training with arm swing synchronized to a walking virtual avatar.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3791\/70609",
+    "Title":"Combining Collagenase Injections with Exercise-Induced Mechanical Overload: A Mouse Model Simulating Overload Stress Injury Knee Osteoarthritis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/ecco-jcc\/jjag074",
+    "Title":"Histological activity predicts relapse in pediatric ulcerative colitis despite mucosal healing: a multicenter study from the pediatric IBD Porto group of ESPGHAN.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fneur.2026.1807498",
+    "Title":"Impaired pendulum-like mechanics during post-stroke walking: a biomechanical comparison with healthy individuals.",
+    "Citations":52,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fphys.2026.1826666",
+    "Title":"Kinematic determinants of take-off performance in elite and sub-elite male long jumpers: a competition-based two-dimensional motion analysis.",
+    "Citations":29,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.ocarto.2026.100824",
+    "Title":"Small bone replacement leads to greater gait asymmetry, cartilage damage, and osteophyte formation than ligament injury in a porcine wrist model.",
+    "Citations":48,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.hjc.2026.05.006",
+    "Title":"SCORE2 versus HellenicSCORE II+ algorithms in detecting preclinical carotid atherosclerosis in a middle-aged general population sample in Greece.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.cct.2026.108366",
+    "Title":"Texas strength through resilience in diabetes education (TX STRIDE): Protocol for a non-randomized cluster-controlled trial among African American adults with type 2 diabetes.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.msksp.2026.103592",
+    "Title":"Ischiofemoral impingement: Clinical perspectives for enhancing diagnosis, and rehabilitation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.msard.2026.107285",
+    "Title":"Video-based 2D markerless gait analysis in people with multiple sclerosis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.4103\/sjg.sjg_90_26",
+    "Title":"STRIDE-II treatment target achievement in inflammatory bowel disease: a cross-sectional study from a tertiary IBD centre in the United Arab Emirates.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.64898\/2026.05.20.726615",
+    "Title":"Energy Expenditure During Walking With a Novel Treadmill Controller That Induces Gait Asymmetry.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2106\/JBJS.OA.26.00015",
+    "Title":"Gait Analysis After Reverse Total Shoulder Arthroplasty.",
+    "Citations":16,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/14763141.2026.2682978",
+    "Title":"Effects of stance foot centre of pressure and timing of heel lift on ground reaction force and stride mechanics in Amateur baseball pitchers.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-56217-x",
+    "Title":"Meta-heuristic and machine learning based functional capacity prediction using gait parameters in patients with heart failure.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2196\/80728",
+    "Title":"Wearable Sensor-Derived Gait Parameters Across Self-Reported Physical Activity Levels in Individuals With Knee Osteoarthritis and Healthy Controls: Pilot Cross-Sectional Validation Study.",
+    "Citations":46,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fspor.2026.1834260",
+    "Title":"Chronic anterior talofibular ligament rupture is associated with bilateral knee alterations and reduced ankle plantar flexor moment during gait.",
+    "Citations":41,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

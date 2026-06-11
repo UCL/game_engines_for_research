@@ -11,6 +11,12 @@ const papers = {
     "Title":"PandaEPL: a library for programming spatial navigation experiments.",
     "Citations":24,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/nargab\/lqae094",
+    "Title":"PANDA-3D: protein function prediction based on AlphaFold models.",
+    "Citations":51,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

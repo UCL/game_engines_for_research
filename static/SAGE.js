@@ -119,6 +119,126 @@ const papers = {
     "Title":"Insights into bear evolution from a Pleistocene polar bear genome.",
     "Citations":66,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12902-026-02342-7",
+    "Title":"Established risk factors for type 2 diabetes in adults with depression: implications for endocrine practice.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.euroneuro.2026.112900",
+    "Title":"Childhood maltreatment is linked to transdiagnostic age- and sex-specific cortical thinning and reduced amygdalar volume in young adults.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.7759\/cureus.108471",
+    "Title":"Orthopaedic Trauma Management in Developing Countries: A Narrative Review of Clinical Practices, Socioeconomic Challenges, and Healthcare Outcomes.",
+    "Citations":50,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/23779608261459904",
+    "Title":"Lived Experiences of Moral Disengagement Among Nursing Faculty in the West Bank: A Hermeneutic Phenomenological Study.",
+    "Citations":22,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/2050313X261454854",
+    "Title":"Healthy birth after chemotherapy for diffuse large B-cell lymphoma with superior vena cava syndrome in late pregnancy: A case report.",
+    "Citations":27,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1097\/TP.0000000000005753",
+    "Title":"Impact of High-emergency Lung Transplantation Procedure on 1-y Survival in France.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41592-026-03124-8",
+    "Title":"A scalable approach to investigating sequence-to-function predictions from personal genomes.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s00586-026-10054-8",
+    "Title":"Controlled versus gravity-based irrigation in endoscopic spine surgery: pressure stability, thresholds, and safety implications.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1136\/bmj-2026-823665",
+    "Title":"Is Britain's health establishment prepared for a populist government?",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.jad.2026.122082",
+    "Title":"Direct and indirect associations linking COVID-19 severity to internalizing disorders and symptoms among participants in New Haven, CT.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.lana.2026.101500",
+    "Title":"5-Year effectiveness of an oral cholera vaccine in a cholera outbreak in rural Haiti: a case-control study.",
+    "Citations":22,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.15167\/2421-4248\/jpmh2025.66.4.3461",
+    "Title":"The Role of SGLT2 Inhibitors in Preventing the Progression of Chronic Kidney Disease in Patients with Type 2 DM: A Systematic Review.",
+    "Citations":19,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/30502225261453521",
+    "Title":"Earlier Onset of Subacute Sclerosing Panencephalitis in Bangladeshi Children: Insights from a Case Series.",
+    "Citations":35,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/2050313X261454858",
+    "Title":"Molecular hydrogen is associated with immunophenotypic modulation and changes in T-cell exhaustion markers in refractory primary Sj\u00f6gren's syndrome-associated interstitial lung disease: A case report.",
+    "Citations":40,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/dad2.70376",
+    "Title":"Real-world use of lecanemab: patient pathway findings from a US multicenter study.",
+    "Citations":25,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/23779608261458995",
+    "Title":"Factors Influencing Attitudes and Adherence to Recommendations for Pressure Injury Prevention: Insights From a Cross-Sectional Study of Registered Nurses in Saudi Arabia.",
+    "Citations":48,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/23779608261458015",
+    "Title":"Knowledge, Attitude and Practice of Nursing Students on Antibiotic Use and Resistance in Bangladesh.",
+    "Citations":53,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1775885",
+    "Title":"The current status and implications of aging research from a health perspective.",
+    "Citations":133,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/alz.71564",
+    "Title":"Mapping cross-domain drivers of Alzheimer's disease risk through integrated network analysis.",
+    "Citations":44,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/bdi.70120",
+    "Title":"Advancing Brain and Body Vascular Imaging in Bipolar Disorder: A Report From the International Society for Bipolar Disorders Vascular Task Force.",
+    "Citations":185,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

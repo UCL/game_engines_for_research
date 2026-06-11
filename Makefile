@@ -2,7 +2,11 @@ static/*.html: src/index.html update_web_pages.py data/game_engine.db data/game_
 	uv run update_web_pages.py
 
 data/game_engine.db:
+	source user_agent.key
 	uv run update_game_engine_list.py
+
+        source pubmedapi.key
+	uv run update_pubmed_citations.py
 
 data/game_engine_papers.db:
 	uv run update_publication_lists.py

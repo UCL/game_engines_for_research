@@ -1,6 +1,12 @@
 const papers = { 
  "data": [
   {
+    "DOI":"doi not found",
+    "Title":"Evaluation of Game Engines for Cross-Platform Development of Mobile Serious Games for Health.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
     "DOI":"10.3390\/jimaging11050168",
     "Title":"The Creation of Artificial Data for Training a Neural Network Using the Example of a Conveyor Production Line for Flooring.",
     "Citations":54,
@@ -118,6 +124,120 @@ const papers = {
     "DOI":"10.1007\/s00417-025-06816-7",
     "Title":"Neuroprotection beyond intraocular pressure: game changer or quiet addiction.",
     "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpubh.2026.1845337",
+    "Title":"Development, validation, and cost-effectiveness analysis of an AI-assisted three-tiered glaucoma screening model in a community-based setting: protocol for a cluster randomized controlled trial.",
+    "Citations":31,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1017\/neu.2026.10087",
+    "Title":"The Danish Region Midt Schizophrenia Cohort - Representative, long-term follow-up of first-episode schizophrenia spectrum disorder.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpubh.2026.1831752",
+    "Title":"Parental awareness of screen use and myopia risk in children: a study among Turkish parents.",
+    "Citations":31,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1155\/crdi\/3791851",
+    "Title":"Occupationally Acquired Polymicrobial Keratitis Caused by Acanthamoeba and Rare Enteric Bacteria Following Gastrointestinal Splash Exposure: A Case Report.",
+    "Citations":24,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.20517\/cdr.2026.27",
+    "Title":"Deep spatial proteomics reveals a suppressive immune niche linked to immune evasion in renal cell carcinoma.",
+    "Citations":48,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.atssr.2025.12.003",
+    "Title":"Revisiting the SURPLUS Procedure-A Hybrid Solution to the Complex Aortic Root.",
+    "Citations":4,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.atssr.2025.12.006",
+    "Title":"Endogenous Bacterial Endophthalmitis Secondary to Prosthetic Vascular Graft Infection.",
+    "Citations":7,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.atssr.2025.11.028",
+    "Title":"Evolving Redo Frame-Preserving Leaflet Resection: From Transcatheter to Surgical Aortic Valves.",
+    "Citations":8,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.displa.2026.103390",
+    "Title":"Assisting the blind to reach daily objects using smart glasses.",
+    "Citations":28,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1155\/crop\/6610355",
+    "Title":"Rhino-Orbital-Cerebral Mucormycosis With Bilateral Endogenous Aspergillus Endophthalmitis Following Steroid Therapy for COVID-19 Infection.",
+    "Citations":13,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/nsr\/nwag280",
+    "Title":"Towards a global vision of Earth's shield: the SMILE mission and a\u00a0new paradigm of international collaboration.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.4103\/ijcm.ijcm_805_24",
+    "Title":"Assessing Quality of life of Patients with Cataract and Glaucoma using Generic and Vision-Specific Instruments in India.",
+    "Citations":49,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.4103\/ijcm.ijcm_696_24",
+    "Title":"Validity and Reliability of WHOeyes Application in Community-based Visual Acuity Screening Program.",
+    "Citations":22,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.7759\/cureus.108558",
+    "Title":"Endogenous Methicillin-Resistant Staphylococcus aureus (MRSA) Endophthalmitis Presenting as an Anterior Chamber Abscess With Necrotizing Scleritis.",
+    "Citations":8,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/pch\/pxag030",
+    "Title":"Retinopathy of prematurity: Anti vascular endothelial growth factor (Anti-VEGF) or laser photocoagulation?",
+    "Citations":34,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fphys.2026.1734299",
+    "Title":"Grad-CAM based deep learning analytics for image-level colon disease classification based on graph neural networks and vision transformers.",
+    "Citations":77,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fphys.2026.1828207",
+    "Title":"Correlation between sports visual ability and catching performance in elite collegiate baseball infielders: a position-specific analysis.",
+    "Citations":50,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/frph.2026.1790980",
+    "Title":"Endo-MedSAM: a promptable vision foundation model adaptation for uterus segmentation on pelvic MRI in endometriosis.",
+    "Citations":26,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s11571-026-10479-3",
+    "Title":"Memristor-based neuromorphic circuit for visual emotional non-associative learning.",
+    "Citations":52,
     "Game Engine - Actual":"Unknown"
   }
 ]}

@@ -119,6 +119,126 @@ const papers = {
     "Title":"Preschoolers agree to and enforce prosocial, but not selfish, sharing norms.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1063\/5.0327062",
+    "Title":"N-component free energy lattice Boltzmann method with reduction consistency and global momentum conservation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.zefq.2026.04.004",
+    "Title":"[Data-based quality assurance in the context of the DeQS directive and clinical cancer registries in Germany - A comparison].",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1039\/d6ra02955h",
+    "Title":"Superior electrochemical performances of highly porous bismuth oxyhalides decorated lemon peel derived activated carbon electrode materials for solid state asymmetric and symmetric supercapattery devices.",
+    "Citations":96,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/plcell\/koag167",
+    "Title":"PRP8 regulates chromatin organization to enforce transcriptional gene silencing independent of DNA methylation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.jctc.6c00653",
+    "Title":"Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Nonconservative Forces.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-55477-x",
+    "Title":"A Lyapunov-PINN framework for global stability of an SEIR epidemic model with educational interventions.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3724\/SP.J.1123.2025.10009",
+    "Title":"[Determination of 13 prohibited alkaloids in essential oil-based cosmetics by ultra performance liquid chromatography-tandem mass spectrometry combining QuEChERS purification].",
+    "Citations":21,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.64898\/2026.05.24.727426",
+    "Title":"Fasting disrupts the InsP\u2086-HDAC3 axis to drive ER stress-mediated clearance of DNA-damaged cells and enforce tissue quality control.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-55797-y",
+    "Title":"Validation of the ultra short term heart rate variability measures under changing psychophysiological state of the healthy participants at rest.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.64898\/2026.05.18.726071",
+    "Title":"HDAC Inhibition Sensitizes Pancreatic Tumors to DNA Damage by Global Redistribution of the Transcriptional Machinery.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.jfscie.2025.100056",
+    "Title":"Generative AI: Opportunities, risks, and responsibilities for oral sciences.",
+    "Citations":14,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1891\/RTNP-2025-0178",
+    "Title":"Predicting Preschool Children's Screen Time: The Role of Parental Digital Habits and Bandura's Social Learning Theory.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0328432",
+    "Title":"Task demands and visual context naturalness modulate gravitational expectation during ocular tracking of temporarily occluded ballistic trajectories.",
+    "Citations":112,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/jacs.6c01928",
+    "Title":"Thermodynamic Control of Facet Chemistry for Precise Solid-State Synthesis of Na Layered Cathodes.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.inorgchem.6c02075",
+    "Title":"Expanding the Ligand Scope of Pore-Space-Partitioned MOFs with a Chiral Camphorate Linker.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1136\/bmjopen-2025-109084",
+    "Title":"Barriers to healthcare access during pregnancy and after birth for adolescent girls living with disability in Sierra Leone: a qualitative study.",
+    "Citations":48,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.envint.2026.110341",
+    "Title":"The distribution of nano- and microplastics in the human body: a hybrid perfusion-diffusion based PBK model.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1109\/TIP.2026.3697621",
+    "Title":"Weakly Supervised Temporal Action Localization With Proposal-Level Action Consistency Learning.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s10278-026-02010-1",
+    "Title":"ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.acra.2026.04.045",
+    "Title":"CMHF-3DNet: A Transformer-Based Framework for Improved Brain Tumor Segmentation Across Modalities.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

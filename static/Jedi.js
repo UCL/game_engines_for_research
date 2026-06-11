@@ -5,6 +5,126 @@ const papers = {
     "Title":"\"STAR WARS: The first Jedi\" Gamification Program: Use of a Mobile App to Improve Body Composition in College Students.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.resplu.2026.101347",
+    "Title":"Resuscitation needs justice: an intersectional view on justice, equity, diversity, and inclusion.",
+    "Citations":39,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.64898\/2026.04.08.717226",
+    "Title":"Designer indicators for two-photon recording of subthreshold voltage dynamics.",
+    "Citations":71,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1227\/neu.0000000000004036",
+    "Title":"Choroid Plexus Cauterization Prevents Postoperative Hydrocephalus in Adult Glioblastoma Resection With Ventricular Entry.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12909-026-08998-y",
+    "Title":"Feasibility of an interactive, iterative zoom-based anti-racism course for academic neurology faculty.",
+    "Citations":30,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41586-025-09844-9",
+    "Title":"Investigating the analytical robustness of the social and behavioural sciences.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/cells15060544",
+    "Title":"Harnessing Gut Endocrine Cell Plasticity to Restore Insulin Production.",
+    "Citations":49,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/psyp.70265",
+    "Title":"Neurocognitive Dynamics of Translating Information From a Spatial Map Into Action.",
+    "Citations":93,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.dib.2026.112462",
+    "Title":"Deep-sea image dataset for organism detection.",
+    "Citations":12,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/ijc.70291",
+    "Title":"Effect of chemoradiation treatment on methylated BCAT1 and IKZF1 in rectal cancer.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pgph.0005854",
+    "Title":"Evaluating the perceived outcome and impact of an integrated knowledge translation approach in the development of an equity reporting guideline: A cross-sectional survey.",
+    "Citations":34,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1097\/JTE.0000000000000468",
+    "Title":"The Impact of Lynda D. Woodruff Lectures on First-Semester Doctor of Physical Therapy Students: A Qualitative Study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.xnsj.2025.100833",
+    "Title":"Following posterior spinal fusion for adolescent idiopathic scoliosis, patients with asthma are at increased odds of pulmonary adverse events.",
+    "Citations":36,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/plphys\/kiaf618",
+    "Title":"Modeling omics integration with HIVE identifies response signatures to multifactorial stress in plants.",
+    "Citations":15,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1113\/JP289806",
+    "Title":"Physiological mechanisms underlying enhanced performance with blood flow restriction training: neuromuscular, vascular and metabolic adaptations.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/1878-0261.70175",
+    "Title":"LINC01116, a hypoxia-lncRNA marker of pathological lymphangiogenesis and poor prognosis in lung adenocarcinoma.",
+    "Citations":49,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acschemneuro.5c00670",
+    "Title":"Absolute Membrane Potential Recording with ASAP-Type Genetically Encoded Voltage Indicators Using Fluorescence Lifetime Imaging.",
+    "Citations":38,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.jposna.2025.100258",
+    "Title":"Diversity and Discrimination at the Workplace - A Survey of the Members of the Pediatric Orthopaedic Society of North America.",
+    "Citations":27,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12910-025-01313-2",
+    "Title":"Prevalence of defensive medicine behaviors, associated risk factors and its mitigation strategies among physicians in Gaza Strip, palestine: a mixed method study.",
+    "Citations":41,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41467-025-63867-4",
+    "Title":"All-optical voltage interrogation for probing synaptic plasticity in vivo.",
+    "Citations":63,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/ph18091397",
+    "Title":"PROTACs and Glues: Striking Perspectives for Engineering Cancer Therapy \u00c0 La Carte.",
+    "Citations":57,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

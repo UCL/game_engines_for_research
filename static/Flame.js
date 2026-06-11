@@ -119,6 +119,126 @@ const papers = {
     "Title":"Ionic liquid-enabled hydrogen-bonding networks in corn stalk-derived cellulose\/poly(butylene succinate) composite films for sustainable flexible sensors.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-56935-2",
+    "Title":"Enhancing the detection of LTP through lyophilized protein samples and NIR spectroscopy with explainable deep learning.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.est.6c03000",
+    "Title":"Priority Plastic Additives of Environmental Concern in Marine-Leaked Micro- and Macroplastics: Occurrence, Distribution, and Management Implications.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s40643-026-01072-x",
+    "Title":"Optimized extraction of Pinus taeda knotwood sawmill residues as source of antifungal compounds.",
+    "Citations":67,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1121\/10.0043841",
+    "Title":"Learning the relationship between operating condition and flame response from acoustic dataa).",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1121\/10.0043969",
+    "Title":"In-situ inference of the thermoacoustic properties of an industrial combustion systema).",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fnbeh.2026.1821381",
+    "Title":"Environmental endocrine disruptors at the synapse: mechanisms linking chemical exposure to cognitive and behavioral dysfunction.",
+    "Citations":141,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acsomega.6c01489",
+    "Title":"Experimental Design-Based Dispersive Liquid-Liquid Microextraction with GC-FID for Determination of Polycyclic Aromatic Hydrocarbons in Surface Water.",
+    "Citations":78,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acsomega.6c00702",
+    "Title":"Phosphorus-Free and Self-Extinguishing Cellulose Paper Achieved via Short-Chain Carboxylate-Functionalized Mn\/Ni Nanoparticles.",
+    "Citations":38,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/smll.74108",
+    "Title":"Flame Spray Pyrolysis Engineering of Highly Spherical LiMn(0.5)Fe(0.5)PO(4) Nanoparticles With Boosted Volumetric Energy Density for Lithium-Ion Batteries.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/smll.74109",
+    "Title":"Flexible Multifunctional Composite Phase Change Materials for Enhanced Thermal Safety of Battery Energy Storage Systems.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.envres.2026.124940",
+    "Title":"Prenatal exposure to organophosphate ester flame retardants and plasticizers and maternal immune responses in three ECHO cohorts.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s00604-026-08188-z",
+    "Title":"Synergistic integration of MOF (UiO-66) and COF (SNW-1) on magnetic graphene oxide: an engineered sorbent for the determination of phthalate esters in water by gas chromatography-flame ionization detection.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.envpol.2026.128520",
+    "Title":"Quantitative analysis of novel brominated flame retardants using multilayer silica\/Florisil purification coupled with GC-MS\/MS and assessment of their levels in vegetables by plant parts.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.watres.2026.126190",
+    "Title":"Nontarget identification of novel organophosphorus compounds reveals underestimated bioaccumulation and ecological risks in wild fish from an industry-impacted river.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3724\/SP.J.1123.2025.09019",
+    "Title":"[Determination of 22 organophosphates and their metabolites and 11 phthalate metabolites in human whole blood by ultra performance liquid chromatography-tandem mass spectrometry].",
+    "Citations":32,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.14202\/vetworld.2026.1629-1641",
+    "Title":"Dietary fermented cassava peel improves laying performance, yolk fatty acid profile, and economic return in laying hens.",
+    "Citations":38,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.envpol.2026.128496",
+    "Title":"A nontarget search for organic micropollutants in suspended particulate matter and sediments of Admiralty Bay, Antarctic Peninsula.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.neuro.2026.103485",
+    "Title":"Prioritizing chemicals for developmental neurotoxicity by integrating data from a new approach methods (NAMs) battery covering key cellular events in neurodevelopment.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1097\/GOX.0000000000007830",
+    "Title":"Two-stage Reconstruction of Acute Extensive Third-degree Burn Using Biodegradable Temporizing Matrix (NovoSorb BTM).",
+    "Citations":10,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/0734242X261451602",
+    "Title":"Environmental performance of waste electrical and electronic equipment plastic recycling based on life cycle assessment.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

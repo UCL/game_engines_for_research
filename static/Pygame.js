@@ -5,6 +5,12 @@ const papers = {
     "Title":"A New Socially Assistive Robot with Integrated Serious Games for Therapies with Children with Autism Spectrum Disorder and Down Syndrome: A Pilot Study.",
     "Citations":32,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s10458-024-09659-4",
+    "Title":"Assimilating human feedback from autonomous vehicle interaction in reinforcement learning models.",
+    "Citations":22,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:
