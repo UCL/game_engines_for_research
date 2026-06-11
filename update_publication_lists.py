@@ -78,7 +78,7 @@ if __name__ == "__main__":
     # https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
     for index, game_engine in game_engines_df.iterrows():
         api_throttle = 0.0
-        for pmid in game_engine.loc["Paper IDs"]:
+        for pmid in game_engine.loc["Paper IDs"][0][0]:
             try:
                 url, summary = get_publication_summary(pmid, pubmed_key)
             except IOError:

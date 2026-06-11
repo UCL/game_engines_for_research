@@ -6,7 +6,7 @@ data/game_engine.db:
 	uv run update_game_engine_list.py
 
         source pubmedapi.key
-	uv run update_citations.py
+	uv run update_pubmed_citations.py
 
 data/game_engine_papers.db:
 	uv run update_publication_lists.py
