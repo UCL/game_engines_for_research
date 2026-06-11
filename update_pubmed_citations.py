@@ -2,7 +2,6 @@ import pandas as pd
 import time
 import os
 
-from game_engine_software.common import get_url
 from game_engine_software.pubmed import get_pubmed_citations_and_url
 
 

@@ -8,7 +8,9 @@ from game_engine_software.common import get_url
 
 def update_game_engine_list(filename: str, name_key="Name(Alternate name)"):
     """Writes a list of game_engine dictionaries (currently derived from
-    wikipedia). Does not overwrite any data already existing in filename
+    wikipedia).
+
+    Does not overwrite any data already existing in filename
     :param: a file to read/write to
     :param: The key to find the engine name in from wikipedia query
     """
