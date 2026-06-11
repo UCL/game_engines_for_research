@@ -7,10 +7,7 @@ from game_engine_software.pubmed import get_pubmed_citations_and_url
 
 
 if __name__ == "__main__":
-
-    
     games_df = pd.read_json("data/game_engine.db")
-
 
     name_key = "Name"
     max_citations = 100
@@ -55,7 +52,7 @@ if __name__ == "__main__":
                     engine_name, False, max_citations, "game", pm_key=pubmed_key
                 )
                 api_throttle_time += 0.020
-            
+
             time.sleep(api_throttle_time)
 
             if int(game_count) > len(paperIDs):
@@ -67,12 +64,11 @@ if __name__ == "__main__":
                     + "Only collected first "
                     + str(len(paperIDs))
                 )
-        
-        engine["PubMed citations"] = count 
+
+        engine["PubMed citations"] = count
         engine["PubMed game citations"] = game_count
         engine["PubMed Link"] = url
         engine["PubMed Game Link"] = game_url
-        engine["Paper IDs"] = [paperIDs],
+        engine["Paper IDs"] = ([paperIDs],)
 
         games_df.to_json("data/game_engine.db", indent=2, orient="records")
-
