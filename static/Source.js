@@ -119,6 +119,120 @@ const papers = {
     "Title":"The impact of food marketing via video game live streaming on snack intake in adolescents: a randomised controlled trial.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/13634615261452805",
+    "Title":"Psychotherapy, Selfhood, and the Bhagavad Gita: Contrasting Mental Health Scholarship and Religious Commentaries.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1042\/BSR20260203",
+    "Title":"Rewiring mTOR signaling in Alzheimer's disease: emerging mTOR modulators beyond oncology.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/jacs.6c07496",
+    "Title":"Pd-Catalyzed Facile and Selective B-H Carbonylation Leading to Boron Cluster Carboxylic Acids for Diverse Transformations.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.analchem.6c02559",
+    "Title":"Noninvasive Analysis of Skin Emanations during Cupping Therapy by Thin-Film Solid-Phase Microextraction and Dielectric Barrier Discharge Ionization Mass Spectrometry.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.4103\/aja202613",
+    "Title":"Exploring potential targets and mechanisms of male reproductive toxicity induced by the emerging PFAS GenX and F-53B via network toxicology, molecular docking, and in vivo validation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpubh.2026.1827069",
+    "Title":"Association between short-term air pollution exposure and the risk of fatal recurrence within 1\u202fyear in patients with first-episode acute hemorrhagic stroke: a time-stratified case-crossover study.",
+    "Citations":55,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/12298093.2026.2680805",
+    "Title":"A Conserved Lignocellulolytic Secretome with Quantitative Modulation in Leucoagaricus gongylophorus, the Mutualistic Fungus of Leaf-Cutting Ants.",
+    "Citations":47,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyt.2026.1771510",
+    "Title":"Between \"normality\" and diagnosis: strains between the I and the Me in undiagnosed adolescents with ADHD symptoms.",
+    "Citations":62,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.34133\/csbj.0129",
+    "Title":"BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists.",
+    "Citations":35,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.4102\/sajid.v41i1.817",
+    "Title":"Prevalence, pattern of disease and antimicrobial susceptibility of Candidozyma auris in the greater Pretoria region from 2021 to 2024.",
+    "Citations":28,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.atssr.2025.09.028",
+    "Title":"Mitral Valve Lymphoma: An Unusual Cause of Embolic Strokes.",
+    "Citations":6,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fmed.2026.1771274",
+    "Title":"Occupational dust exposure and cerebral small vessel disease: a public health perspective on prevention and early detection.",
+    "Citations":120,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fmed.2026.1756295",
+    "Title":"Development and use of a custom-designed vaginal dilator for post-surgical management in a congenital adrenal hyperplasia patient.",
+    "Citations":13,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acselectrochem.6c00059",
+    "Title":"Mechanistic Insights into the Suppression of Proton Intercalation and the Hydrogen Evolution Reaction through Phosphorus Doping in Tungsten Oxide.",
+    "Citations":78,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/frai.2026.1829649",
+    "Title":"DynEC: dynamic evolutionary clustering for power user load profiling using multi-view graph neural networks.",
+    "Citations":39,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.jpcc.6c01560",
+    "Title":"Chemical and Morphological Changes of Chloride-Affected Cu Catalysts during CO(2) Reduction Studied by In Situ Scanning Transmission Soft X\u2011ray Microscopy.",
+    "Citations":56,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fimmu.2026.1722806",
+    "Title":"Tracing the stemness and malignant transition in a heritable colorectal cancer Lynch Syndrome by single-cell RNA-seq analysis.",
+    "Citations":27,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fimmu.2026.1846799",
+    "Title":"Extracellular vesicles in atopic dermatitis: unraveling pathogenic mediators and engineering therapeutic vectors.",
+    "Citations":247,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fneur.2026.1772547",
+    "Title":"Current status of neural progenitor\/stem cells for spinal cord injury: fundamental research and clinical trials.",
+    "Citations":126,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

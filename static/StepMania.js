@@ -5,6 +5,12 @@ const papers = {
     "Title":"Energy cost and game flow of 5 exer-games in trained players.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1089\/g4h.2017.0197",
+    "Title":"The Effectiveness of Technology-Mediated Dance Interventions and Their Impact on Psychosocial Factors in Older Adults: A Systematic Review and Meta-Analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

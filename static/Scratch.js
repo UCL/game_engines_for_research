@@ -119,6 +119,126 @@ const papers = {
     "Title":"A decay-based account of learning and adaptation in complex skills.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.fsi.2026.111498",
+    "Title":"A comprehensive study on molecular features, immunological expressions, and redox-regulatory functions of glutaredoxin 3 from chub mackerel (Scomber japonicus).",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.micpath.2026.108624",
+    "Title":"A Novel Borneol-Loaded PLGA\/Chitosan Nanoparticles: Synthesis, Characterization and Evaluation of Antioxidant, Antibacterial, Wound Healing and Cytotoxic Activity on A549 Cells.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1109\/JBHI.2026.3701922",
+    "Title":"From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s00210-026-05532-1",
+    "Title":"Preliminary revelation of potential therapeutic targets related to ribosome biogenesis in lung adenocarcinoma based on bioinformatics analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/nar\/gkag469",
+    "Title":"Galaxy for accessible, reproducible, and collaborative data analyses: 2026 update.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/ics.70109",
+    "Title":"Benign by design: A paradigm shift in cosmetic ingredient development.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2147\/IJN.S604151",
+    "Title":"Bone Marrow-Derived Macrophages Loaded with Boron Carbide Nanoparticles Targeting the Glioblastoma Microenvironment for Boron Neutron Capture Therapy.",
+    "Citations":34,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/ptr.70397",
+    "Title":"Resveratrol Ameliorates Hypertrophic Scar Formation by Regulating ASIC3-Mediated Fibroblast-Macrophage Crosstalk: A Mechanistic Study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12906-026-05420-4",
+    "Title":"Mechanistic evaluation of pachymic acid in breast cancer via network pharmacology and in vitro validation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41467-026-72491-9",
+    "Title":"Reinforcement learning in linear embedding space unlocks generalizable control across soft robot configurations.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.jinorgbio.2026.113369",
+    "Title":"Suppression of glioblastoma progression by novel Phthalocyanine derivatives: In vitro characterization and molecular docking analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0347209",
+    "Title":"EP300 promotes bladder cancer cell migration through SNAI2.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.jdin.2026.04.014",
+    "Title":"Comparison of skin microbiota profiles in chronic scratch lesions using tape strip and swab sampling.",
+    "Citations":4,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.reth.2026.101148",
+    "Title":"Adipose-derived mesenchymal stem cells promote diabetic wound healing through ALDOA secretion.",
+    "Citations":31,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fonc.2026.1829851",
+    "Title":"Transcription factor SOX4 promotes proliferation, invasion and lymphatic metastasis of laryngeal squamous cell carcinoma via PTBP2 activation.",
+    "Citations":35,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/fsn3.71577",
+    "Title":"The Assessment of the Effect of Nano Propolis Against Melanoma Cell Line, and Its Radio Sensitization Effect.",
+    "Citations":43,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1155\/mi\/7413982",
+    "Title":"Hydroxysafflor Yellow A Induces Apoptosis and Inhibits Inflammatory Cytokine Expression in Rheumatoid Arthritis Synovial Fibroblasts Through the MEK-ERK Pathway.",
+    "Citations":31,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.cimid.2026.102493",
+    "Title":"Susceptibility or resistance to Bartonella spp. infection in cats: Does the phenotype-B blood matter?",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.tice.2026.103647",
+    "Title":"Biological evaluation of pH-responsive eugenol-loaded CMC\/ZnO-HA nanocomposites for enhanced bone wound healing and osteogenesis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.prp.2026.156578",
+    "Title":"A novel role for RAC2 in keratinocyte inflammation and dysfunction in oral lichen planus.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

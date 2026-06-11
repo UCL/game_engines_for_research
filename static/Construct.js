@@ -119,6 +119,126 @@ const papers = {
     "Title":"Novel Selectable Marker Sesquiterpenoid Antibiotic Pentalenolactone.",
     "Citations":36,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2340\/17453674.2026.45964",
+    "Title":"Early migration following revision total knee arthroplasty with tibial metaphyseal cones: a 2-year prospective RSA cohort study of 25 patients.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/13634615261452805",
+    "Title":"Psychotherapy, Selfhood, and the Bhagavad Gita: Contrasting Mental Health Scholarship and Religious Commentaries.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/0306624X261457647",
+    "Title":"'We Are Not Freeloaders:' Harmful Welfare Narratives and Counter-Narratives Among Resettled Iraqi Refugees in the United States.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpubh.2026.1845337",
+    "Title":"Development, validation, and cost-effectiveness analysis of an AI-assisted three-tiered glaucoma screening model in a community-based setting: protocol for a cluster randomized controlled trial.",
+    "Citations":31,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fcell.2026.1772507",
+    "Title":"Decoding cardiac homeostasis and injury: the evolving landscape of spatial transcriptomics.",
+    "Citations":41,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.34133\/hds.0461",
+    "Title":"Electronic Health Record-Based Machine Learning Model for Predicting Disease Activity in Patients with Rheumatoid Arthritis.",
+    "Citations":44,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fmed.2026.1753638",
+    "Title":"Construction of a conceptual model and preliminary content development for patient-reported outcomes measurement after total hip arthroplasty: from a Chinese perspective.",
+    "Citations":77,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1039\/d6sc03169b",
+    "Title":"Diastereoselective synthesis of spiro[2.n]alkanes via intramolecular carbolithiation.",
+    "Citations":43,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/00049530.2026.2678849",
+    "Title":"Humor Competence Scale (HCS): scale development and validation.",
+    "Citations":62,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.31662\/jmaj.2026-0004",
+    "Title":"Elucidating the Neural Basis of Bipolar Disorder - Secondary Publication.",
+    "Citations":10,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1793395",
+    "Title":"Development and preliminary evaluation of a computer-assisted assessment tool for Chinese prewriting skills in preschoolers.",
+    "Citations":48,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.62347\/QZSE6054",
+    "Title":"Survival outcomes in patients with metachronous breast cancer bone metastasis: an 11-year single-institution retrospective study.",
+    "Citations":31,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fbioe.2026.1698245",
+    "Title":"The application of tissue engineering in cartilage regeneration: technological advances and future challenges.",
+    "Citations":156,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/brb3.71447",
+    "Title":"Cross-Cultural Adaptation and Psychometric Evaluation of the Turkish Version of the Exercise-Specific Parkinson's Disease Questionnaire.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/chem.71215",
+    "Title":"Structure-Property Engineering of Redox-Active Tetrathiafulvalene- and Bipyridine-Based Metal-Organic Frameworks for Battery Cathodes.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/jbio.70308",
+    "Title":"Optical-Resolution Photoacoustic Microscopy-Based Virtual Staining: A Wavelet-Enhanced Contrastive Translation Approach With Structure Preservation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.56434\/j.arch.esp.urol.20267904.75",
+    "Title":"A Nomogram for Predicting 28-Day Mortality in Critically Ill Patients With Prostate Cancer: A Retrospective Cohort Study Based on the MIMIC-IV Database.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.joc.6c00306",
+    "Title":"Acid-Induced White Circularly Polarized Luminescence Based on Planar Chiral [2.2]Paracyclophanyl Derivatives.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12963-026-00488-z",
+    "Title":"Why healthy life expectancy estimates diverge: insights from survey-based, administrative, and model-based metrics across Japanese prefectures, 2001-2019: a comparative ecological study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12913-026-14880-w",
+    "Title":"Optimizing case mix for per-diem payment of mental disorders based on E-CHAID decision tree analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

@@ -41,6 +41,120 @@ const papers = {
     "Title":"Accuracy and precision of stimulus timing and reaction times with Unreal Engine and SteamVR.",
     "Citations":53,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-54621-x",
+    "Title":"Transformer-based 3D pose estimation pipeline with modular SmoothNet integration for animation generation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1167\/jov.26.4.12",
+    "Title":"A model of the Unity High-Definition Render Pipeline, with applications to flat-panel and head-mounted display characterization.",
+    "Citations":24,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s41205-026-00313-1",
+    "Title":"Application of mixed augmented reality with holographic platform for interactive teaching of veterinary osteology.",
+    "Citations":23,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/icvts\/ivag047",
+    "Title":"Building an Extracorporeal Membrane Oxygenation Digital Twin Using High-Resolution Patient Data: An artificial intelligence model for virtual reality simulation.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0342166",
+    "Title":"Research on the influence of virtual reality on muscle fatigue during rowing ergometer exercise - pilot study.",
+    "Citations":46,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/s25247569",
+    "Title":"OCC-Based Positioning Method for Autonomous UAV Navigation in GNSS-Denied Environments: An Offshore Wind Farm Simulation Study.",
+    "Citations":27,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/healthcare13233093",
+    "Title":"MetaAcuPoint: MetaHuman-Generated Synthetic Data for Hand Acupoint Localization.",
+    "Citations":36,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1109\/EMBC58623.2025.11253356",
+    "Title":"Integration of a virtual reality system with a FES-assisted trike for rehabilitation of individuals with spinal cord injury.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/jimaging11110395",
+    "Title":"Multi-Weather DomainShifter: A Comprehensive Multi-Weather Transfer LLM Agent for Handling Domain Shift in Aerial Image Processing.",
+    "Citations":106,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-025-25617-w",
+    "Title":"Construction of UE4 model and virtual experience technology for Qiang ethnic architectural environment based on improved A* algorithm.",
+    "Citations":37,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/biomimetics10090587",
+    "Title":"Graph-Driven Micro-Expression Rendering with Emotionally Diverse Expressions for Lifelike Digital Humans.",
+    "Citations":50,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/s25175569",
+    "Title":"SegGen: An Unreal Engine 5 Pipeline for Generating Multimodal Semantic Segmentation Datasets.",
+    "Citations":34,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/s25175318",
+    "Title":"Instance Segmentation Method for Insulators in Complex Backgrounds Based on Improved SOLOv2.",
+    "Citations":27,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1039\/d5nh00330j",
+    "Title":"TRIumph in nanotoxicology: simplifying transcriptomics into a single predictive variable.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1109\/TPAMI.2025.3604574",
+    "Title":"An End-to-End Depth-Based Pipeline for Selfie Image Rectification.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3390\/s25165117",
+    "Title":"Development of an Interactive Digital Human with Context-Sensitive Facial Expressions.",
+    "Citations":41,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/frobt.2025.1583479",
+    "Title":"AUSPEX: An integrated open-source decision-making framework for UAVs in rescue missions.",
+    "Citations":62,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-025-08224-7",
+    "Title":"Research on the improvement of daily living skills of children with autism in virtual campus environments.",
+    "Citations":28,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-025-02356-6",
+    "Title":"Improved double DQN with deep reinforcement learning for UAV indoor autonomous obstacle avoidance.",
+    "Citations":39,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

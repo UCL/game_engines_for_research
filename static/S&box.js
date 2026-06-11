@@ -119,6 +119,126 @@ const papers = {
     "Title":"A Low Protein Binding Electrospun Membrane Filter for Efficient Biological Media Sterilization.",
     "Citations":35,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/0306624X261457647",
+    "Title":"'We Are Not Freeloaders:' Harmful Welfare Narratives and Counter-Narratives Among Resettled Iraqi Refugees in the United States.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1042\/BSR20260203",
+    "Title":"Rewiring mTOR signaling in Alzheimer's disease: emerging mTOR modulators beyond oncology.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.gim.2026.102628",
+    "Title":"MAJIQ-CLIN: A novel tool to help identify Mendelian disease-causing variants from RNA-Seq data.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1042\/BSR20254061",
+    "Title":"A comprehensive overview of the biological foundations of ADHD.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/advs.76027",
+    "Title":"Interfacial Proton-Relay Microenvironment Enables Self-Driven Singlet Oxygen Generation under Neutral Conditions.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/13696998.2026.2660595",
+    "Title":"Impact of Crohn's perianal fistulas on healthcare resource utilization: a US chart review study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1097\/YCO.0000000000001102",
+    "Title":"Urbanization, wildfire exposure, and youth mental health: a narrative review.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/inthealth\/ihag055",
+    "Title":"From dependency to strategic sovereignty: reframing global health financing in a fragmenting world-lessons from Angola.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/00914150261456747",
+    "Title":"Purpose in Later Life: The Role of Subjective Aging.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/acm2.70651",
+    "Title":"Automatic adaptive radiotherapy triggering based on CBCT using deep learning for esophageal cancer underwent volumetric modulated arc therapy.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/ejn.70580",
+    "Title":"Effortful Control and Cortical Brain Structure in 5-Year-Old Children: Findings From the FinnBrain Birth Cohort Study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/00914150261456755",
+    "Title":"Major Purpose in Life Across Generations: A Categorical Analysis Across Lifespan.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/00914150261456761",
+    "Title":"Empty Confidant Network Satisfaction and Mental Well-Being After the Age of 50: An Exploratory Study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/acm2.70657",
+    "Title":"Solid-state dosimeters have rendered ionization chambers obsolete for routine diagnostic X-ray quality control.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/10778012261458804",
+    "Title":"\"I Wanted to Leave, But Where Could I Go?\": Exploring Domestic Violence in Anantnag, Jammu and Kashmir.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/17423953261452266",
+    "Title":"Restless and endless symptom? Pruritus in patients with liver diseases: A mix method study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/15347346261458155",
+    "Title":"Association of Blood Cadmium and Lead with the Risk of Diabetic Foot Ulcers: The Suppression Effect of Hemoglobin (NHANES 1999-2004).",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/10778012261458788",
+    "Title":"The Relationship Between Witnessing Father's Violence Against Mother and Patriarchal Beliefs: The Case of Turkish Men.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/01939459261438893",
+    "Title":"Nurse Contributions to Daily Rounds.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1098\/rsif.2025.1018",
+    "Title":"Estimating the in vivo prophylactic effect of mosnodenvir, a novel dengue antiviral, on DENV-2 infection.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

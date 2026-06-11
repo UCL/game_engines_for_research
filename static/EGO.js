@@ -119,6 +119,126 @@ const papers = {
     "Title":"Self-affirmation facilitates cardiovascular recovery following interpersonal evaluation.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1789163",
+    "Title":"The impact of supervisor control on employee performance and wellbeing in COVID-19 telecommuting: based on the Job Demands-Resources model.",
+    "Citations":53,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/0092623X.2026.2685303",
+    "Title":"Exploring the Psychological Mechanisms of Gender Transition and Detransition.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/pmh.70085",
+    "Title":"Personality Functioning Cannot Only Be One Thing: A Call for Theoretical Pluralism.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1840234",
+    "Title":"Characteristics of silence among Chinese people in intercultural communication: a proceduralized grounded theory analysis.",
+    "Citations":50,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.chiabu.2026.108141",
+    "Title":"Relational patterns in four girls exposed to domestic violence: A case study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/00207578.2025.2569887",
+    "Title":"Freud, Sebald and the head of Medusa: The unconscious sense of guilt.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1819038",
+    "Title":"Beyond the reducing valve: towards a computational neurophenomenology of altered states via deep neural networks.",
+    "Citations":99,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1521\/prev.2026.113.2.189",
+    "Title":"Nomen Est Omen: A Psychoanalytic Exploration of Names.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1057\/s11231-026-09556-7",
+    "Title":"Between the Tale and the Dream: S\u00e1ndor Ferenczi-Trauma and Dreams.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41597-026-07488-6",
+    "Title":"Maritime urban tracking dataset in harbor environment.",
+    "Citations":49,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0350343",
+    "Title":"Is resilience linked to stress response among anesthesia professionals? A prospective simulation-based study.",
+    "Citations":36,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/08404704261453785",
+    "Title":"From Ego-Centric to Eco-Centric: Realizing Principle 1 of the Pan-Canadian Health Data Charter.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/10519815261444310",
+    "Title":"The mechanism of psychological resilience on creativity among knowledge workers: Mediation by burnout and moderation by social support.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/sltb.70109",
+    "Title":"Factors Associated With Suicide History and Parameters of Suicidal Ideation: A Preliminary Investigation of Cognitive Reactivity and Ego Depletion.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12889-026-27674-w",
+    "Title":"Emotional support networks and discussion of anal cancer among sexual minority men in Nigeria: insights from an ego-centric analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s10508-026-03454-w",
+    "Title":"Balancing Sexual Communal Motivation and Agency in Chinese Romantic Relationships: The Role of Sexual Assertiveness.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.5114\/jhk\/204776",
+    "Title":"Do Different Interdependencies within a Sport Affect the Perceived Motivational Climate, Use of Spontaneous Self-Talk, Positivity or Precompetitive Anxiety?",
+    "Citations":40,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.29158\/JAAPL.260036-26",
+    "Title":"Misclassifying Ego-Syntonic Violence as Obsessive Compulsive Disorder.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1039\/d6ra02282k",
+    "Title":"Covalently silane-bridged e-graphene oxide nanosheets toward year-long dispersion-stable epoxy nanocomposites with superior corrosion protection.",
+    "Citations":43,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1017\/S0140525X25102227",
+    "Title":"What's love got to do with it? The formula for love needs psychological and motivational neurobiological components.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

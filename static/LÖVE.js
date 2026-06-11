@@ -119,6 +119,126 @@ const papers = {
     "Title":"Cinematic Virtual Reality for Educating Health Care Providers About Type 2 Diabetes, Disability, and Elder Abuse and Neglect: A Pilot Study.",
     "Citations":32,
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s13023-026-04384-5",
+    "Title":"\"If I go down, if I crumble, then everybody does\" - identity crisis and emotional strain in parents of children with rare and undiagnosed conditions: a qualitative study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.nbd.2026.107475",
+    "Title":"Human TDP-43 expression worsens FTD-related phenotypes in progranulin-insufficient mice.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1094\/PDIS-04-26-0670-RE",
+    "Title":"Investigating the population dynamics of Fusarium oxysporum f. sp. eustomae causing stem rot in lisianthus with the PCR-based markers and virulence.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/icb\/icag078",
+    "Title":"Love Bites: Morphological Characterization of Genital Spines in Snakes.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s13010-026-00217-2",
+    "Title":"Disintegrating ipseity: a gerontological exegesis of Alzheimer's disease and relational identity in Alice Munro's fiction.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12904-026-02185-y",
+    "Title":"\"Reconciling\"- conceptualising the grieving process of family members involved in assisted dying: a grounded formal theory.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s10943-026-02695-2",
+    "Title":"From Darkness to Light: Spiritual Turning Points in Recovery among Former Substance Users in Norway.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-56872-0",
+    "Title":"Artificial intelligence enabled performance evaluation of an enhanced SPR biosensor for malaria diagnosis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1159\/000552767",
+    "Title":"Examining the decision to take a dementia risk test: Considerations for privacy in screening at-home.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1521\/bumc.2026.90.2.168",
+    "Title":"Toward a double bind theory of borderline personality disorder.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1001\/jamaneurol.2026.1634",
+    "Title":"Pathology and Genetics in a Global Cohort of Parkinsonian Disorders.",
+    "Citations":44,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fbioe.2026.1844904",
+    "Title":"Immunoengineering in the field of tendon and bone regeneration: immunomodulatory biomaterials, delivery platforms, and preclinical models for chronic diseases.",
+    "Citations":133,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1831380",
+    "Title":"Extended factorial validity of the Capacity to Love Inventory.",
+    "Citations":35,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/bpa.70109",
+    "Title":"Dysregulated TIE-2 expression is associated with blood-brain barrier leakiness and Alzheimer's disease-related neuropathology.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12891-026-09866-y",
+    "Title":"Efficacy and safety of rivaroxaban versus low-molecular-weight heparin for the prevention of symptomatic in-hospital venous thrombosis following primary total hip and knee arthroplasty: a large-sample, multicenter, retrospective study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s00520-026-10865-x",
+    "Title":"Longitudinal effects of inpatient music therapy dosage on pain intensity and opioid utilization among patients with hematologic or oncologic conditions: a retrospective cohort study.",
+    "Citations":42,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s42003-026-09927-x",
+    "Title":"Early immune events during SARS-CoV-2 infection impact memory T and B cell responses.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41746-026-02855-4",
+    "Title":"Fully automated system predicts osteoporotic vertebral fracture across institutions using lumbar MRI paraspinal muscle signatures.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/cid\/ciag335",
+    "Title":"Metformin on the Presence of COVID-19 Symptoms 6 Months after Infection: The ACTIV-6 Randomized Clinical Trial.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41588-026-02583-1",
+    "Title":"Consensus meta-analysis of genome-wide association studies for Alzheimer's disease and related dementias.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

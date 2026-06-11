@@ -119,6 +119,78 @@ const papers = {
     "Title":"Summary of the 2025 Professionals in Nutrition for Exercise and Sport \"10 Questions\/10 Experts\" Session-Can Everyday Foods Replace Some Ergogenic Supplements and Commercially Available Sports Foods?",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/osp4.70158",
+    "Title":"Association of Total Body Fat Percentiles, Obesity and Cardiometabolic Health Biomarkers in Adults in the United States.",
+    "Citations":57,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1542\/peds.2026-076662B",
+    "Title":"Response to Ogden et\u00a0al Comment.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.jaip.2026.05.010",
+    "Title":"Glucagon-like peptide-1 receptor agonists in asthma and obesity-associated asthma: a systematic review of clinical outcomes and translational mechanisms.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41598-026-50810-w",
+    "Title":"Evaluation of a behavioral intervention to support adolescents undergoing bariatric surgery using the reach, effectiveness, adoption, implementation, maintenance (RE-AIM) framework.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1001\/jamapediatrics.2026.1338",
+    "Title":"State-Level Differences in Human Papillomavirus Vaccine Uptake Among 13- to 17-Year-Old Adolescents.",
+    "Citations":6,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/oby.70211",
+    "Title":"Cardiovascular Disease and Obesity Medications in Older Women by Obesity-Related Cancers Status: SEER-Medicare 2007-2015.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/00243639261435862",
+    "Title":"Searching for a Well on the Antepartum Service.",
+    "Citations":9,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12879-026-12848-z",
+    "Title":"Association of race, ethnicity, and pediatric long COVID and MIS-C: a systematic review and meta-analysis.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s40615-026-02937-9",
+    "Title":"Cannabis Use and Mental Health Coping Behavior among Black, Indigenous, and People of Color Women during the COVID-19 Pandemic: Results from the COVID-19 Cannabis Health Study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s11095-026-04041-3",
+    "Title":"A Comprehensive Review of the Revolutionary Potential of Blockchain in Safe, Secure, and Sustainable Pharmaceutical Operations.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/dom.70700",
+    "Title":"GLP-1 RAs and Kidney Cancer Risk: Methodological Considerations in Active-Comparator Selection.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1249\/MSS.0000000000003897",
+    "Title":"American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.",
+    "Citations":203,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

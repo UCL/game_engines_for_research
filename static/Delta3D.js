@@ -5,6 +5,42 @@ const papers = {
     "Title":"The Delta3D open source game engine.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.xpro.2021.100774",
+    "Title":"Subcellular Euclidean distance measurements with multicolor fluorescence localization imaging in cultured cells.",
+    "Citations":8,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.amjcard.2021.04.018",
+    "Title":"Determinants of Exercise-Induced Mitral Regurgitation Using Three-Dimensional Transesophageal Echocardiography Combined With Isometric Handgrip Exercise.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/jce.13132",
+    "Title":"Biventricular Paced QRS Area Predicts Acute Hemodynamic CRT Response Better Than QRS Duration or QRS Amplitudes.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/srep33832",
+    "Title":"Three-dimensional Contrast-enhanced Ultrasound in Response Assessment for Breast Cancer: A Comparison with Dynamic Contrast-enhanced Magnetic Resonance Imaging and Pathology.",
+    "Citations":38,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0115510",
+    "Title":"Comparison of texture features derived from static and respiratory-gated PET images in non-small cell lung cancer.",
+    "Citations":51,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0060316",
+    "Title":"Construction and applications of rabbit hemorrhagic disease virus replicon.",
+    "Citations":20,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

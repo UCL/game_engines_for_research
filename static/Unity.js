@@ -119,6 +119,126 @@ const papers = {
     "Title":"Golden Breath: Feasibility and acceptability of a biofeedback-based virtual reality game on reducing children's needle-related pain and fear.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fimmu.2026.1846799",
+    "Title":"Extracellular vesicles in atopic dermatitis: unraveling pathogenic mediators and engineering therapeutic vectors.",
+    "Citations":247,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/nsr\/nwag154",
+    "Title":"Halogenation engineered metal cluster assemblies.",
+    "Citations":49,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/tox.70135",
+    "Title":"Trace Element Contamination in Water and Associated Health Risks: Rara and Ghodaghodi Ramsar Lakes, Nepal.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s13049-026-01635-z",
+    "Title":"Alternative models of consent in out-of-hospital transfusion trials: a CAN-PATT position statement supporting exception from prospective consent with opt-out notification.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s10903-026-01940-w",
+    "Title":"Traditional Elements for Recovery and Therapeutic Hybridizations in Displaced Embera Dobid\u00e1 Youth: A Longitudinal Mixed Study in Colombia.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.envpol.2026.128548",
+    "Title":"Almond trees as bioindicators of trace metal pollution in a Mediterranean agricultural island.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.psychres.2026.117264",
+    "Title":"Symptom trajectories and treatment outcomes following a five-day accelerated intermittent-theta burst stimulation protocol for treatment-resistant depression: A naturalistic study in a real-world setting.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.socscimed.2026.119465",
+    "Title":"Can pharmacare reduce suicide-related behaviors? A quasi-experimental study in Ontario youth.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/rpd\/ncag057",
+    "Title":"Characterization of natural and artificial radionuclide concentrations in soil and ecological dose screening using RESRAD-BIOTA: a baseline study of El Kala National Park, Algeria.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1371\/journal.pone.0343186",
+    "Title":"Association between ICU-level variation in arterial blood gas utilization and in-hospital mortality: A retrospective cohort study using the Japanese Intensive care PAtient Database registry.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1109\/MCG.2026.3701906",
+    "Title":"LlymX: Multimodal LLM-Augmented XR for Context-Aware Information Access.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1007\/s12149-026-02245-6",
+    "Title":"Straightforward PET phantom preparation using (68)Gallium diluted with acid.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1097\/MLR.0000000000002341",
+    "Title":"Associations Between Hospital Mergers and Hospital-Level Nursing Factors, Nurse Well-Being, and Nurse-Sensitive Patient Safety and Quality-of-Care Outcomes: A Scoping Review.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/09691413261458098",
+    "Title":"Cost-benefit analysis of an organized community-based multi-cancer screening program in Bangladesh.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/nyas.70316",
+    "Title":"Rhythmicity and Trait Absorption Are Linked to Nonordinary States of Consciousness.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1161\/JAHA.126.049360",
+    "Title":"Frailty Status and Preoperative Cardiac Risk Stratification in Older Adults Undergoing Noncardiac Surgery: A Multicenter Prospective Cohort Study.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1186\/s12883-026-05003-3",
+    "Title":"Revision rate and postoperative volume development of chronic subdural hematomas after burr hole craniotomy in combination with tranexamic acid vs. surgery alone - a single-center propensity score-matched analysis.",
+    "Citations":35,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1038\/s41467-026-73475-5",
+    "Title":"5' leader defects drive persistent HIV-1 viremia on long-term ART.",
+    "Citations":78,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3758\/s13428-026-03067-0",
+    "Title":"Virtual reality skinner box: A step-by-step guide with Unity and Spatial.io.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.lana.2026.101508",
+    "Title":"Superficial parasternal intercostal plane block with ropivacaine versus placebo for opioid exposure after cardiac surgery (EPOCH CardioLink-10): a multicentre, double-blind, randomised trial.",
+    "Citations":32,
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

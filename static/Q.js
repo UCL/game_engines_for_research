@@ -119,6 +119,126 @@ const papers = {
     "Title":"Facial attractiveness influenced cooperative behavior in the Stag Hunt game: Evidence from neural electrophysiology.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1177\/21650799261454290",
+    "Title":"Factors Associated With Work Productivity Loss Among Workers During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis of Correlations.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fendo.2026.1838424",
+    "Title":"Incidence and risk factors of post-transplant diabetes mellitus after kidney transplantation: a systematic review and meta-analysis.",
+    "Citations":66,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fspor.2026.1843803",
+    "Title":"Cross-training between running and cycling: effects on VO(2)max and running performance-a systematic review and meta-analysis.",
+    "Citations":41,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyt.2026.1809638",
+    "Title":"Role of psychological resilience and psychological distress in linking fear of disease progression to quality of life in chronic heart failure: a cross-sectional serial mediation analysis.",
+    "Citations":22,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1016\/j.atssr.2025.11.006",
+    "Title":"Relationship Between Aortic Root Enlargement and Pulmonary Blood Flow in Pulmonary Atresia With Major Aortopulmonary Collateral Arteries.",
+    "Citations":10,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2903\/j.efsa.2026.10133",
+    "Title":"Safety evaluation of the food enzyme subtilisin from the genetically modified Bacillus licheniformis strain NZYM-PD.",
+    "Citations":15,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2903\/j.efsa.2026.10132",
+    "Title":"Safety evaluation of a food enzyme containing oryzin and leucyl aminopeptidase activities and a heat-treated food enzyme containing only leucyl aminopeptidase activity from the non-genetically modified Aspergillus sp. strain FL 72-230.",
+    "Citations":25,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fpsyg.2026.1821545",
+    "Title":"A brief telehealth brain health program for family caregivers of persons living with dementia: the Brain Health for Me(\u00a9) preliminary efficacy study.",
+    "Citations":56,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2147\/CCID.S611230",
+    "Title":"Subtype-Specific Response to Fractional-Mode Q-Switched Ruby Laser in Melasma: A Prospective Single-Blind Clinical Study Using Clinical and Noninvasive Imaging Assessments.",
+    "Citations":27,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fimmu.2026.1835413",
+    "Title":"Non-invasive radiogenomic mapping of the SMARCAL1-driven ferroptotic niche is associated with longitudinal MRD-negative surveillance in early-stage NSCLC.",
+    "Citations":39,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1002\/ccr3.72864",
+    "Title":"A Case of Chronic Thromboembolic Pulmonary Hypertension and Pregnancy, Managed With Pulmonary Endarterectomy: Clinical Challenges, Case Report, and Literature Review.",
+    "Citations":18,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fneur.2026.1851363",
+    "Title":"Predictive value of Galectin-3 in cognitive impairment: a systematic review and meta-analysis.",
+    "Citations":52,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1155\/cric\/5240200",
+    "Title":"Acute Pulmonary Embolism With Multiple ST-Segment Elevations in Anterior and Inferior Leads: A Case Report.",
+    "Citations":10,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.2147\/RMHP.S607810",
+    "Title":"Stakeholder Perspectives on the Adaptability of Hospital Drug Formularies to Disease Patterns: A Modified Q-Methodology Study in Vietnam.",
+    "Citations":26,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.3389\/fphar.2026.1775068",
+    "Title":"Evaluating Cordyceps militaris capsules on post-bronchodilator FEV(1) decline in patients with COPD: a study protocol for double-blind, randomized, placebo-controlled trial.",
+    "Citations":35,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1039\/d5ra08891g",
+    "Title":"Fabrication and characterization of an activated carbon-chitosan-graphene oxide hybrid membrane with hierarchical porosity for the simultaneous adsorptive removal of ciprofloxacin antibiotic and hazardous heavy metals from polluted water systems.",
+    "Citations":52,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/00380253.2026.2622465",
+    "Title":"\"It's a Last Resort. But It's a First Resort\": A Relational Perspective of Payday Loan Use.",
+    "Citations":99,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1021\/acs.jmedchem.5c03295",
+    "Title":"Revisiting 2-Substituted-4(1H)-Quinolones for Targeting the Plasmodium falciparum Cytochrome bc(1) Complex.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1111\/all.70410",
+    "Title":"Validation of the English Drug Hypersensitivity Quality of Life Questionnaire (DrHy-Q).",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1080\/01652176.2026.2681331",
+    "Title":"Introducing plain language summaries of publication in Veterinary Quarterly.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:

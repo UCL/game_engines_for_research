@@ -5,6 +5,24 @@ const papers = {
     "Title":"Evaluation of Game Engines for Cross-Platform Development of Mobile Serious Games for Health.",
     "Citations":"",
     "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1155\/2022\/1310462",
+    "Title":"Restoration Design of Chu Architecture: Zhanghua Tower Based on VR Technology.",
+    "Citations":22,
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1037\/neu0000578",
+    "Title":"Wayfinding in a virtual environment and Down syndrome: The impact of navigational aids.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
+  },
+  {
+    "DOI":"10.1093\/bioinformatics\/btu587",
+    "Title":"VirVarSeq: a low-frequency virus variant detection pipeline for Illumina sequencing using adaptive base-calling accuracy filtering.",
+    "Citations":"",
+    "Game Engine - Actual":"Unknown"
   }
 ]}
 // The following is mostly copy and pasted (with thanks) from:
